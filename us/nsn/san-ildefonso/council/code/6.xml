@@ -404,6 +404,83 @@
         </annotations>
       </section>
     </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>6.2.3</num>
+      <heading>Audit Authorization, Acceptance, and Responsibility Act</heading>
+      <annotation app="2020-07-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-013" eff="2020-07-29" path="" type="History"/>
+      <section>
+        <num>6.2.3.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "AUDIT AUTHORIZATION, ACCEPTANCE, AND RESPONSIBILITY ACT ("Act")."</text>
+        <annotations>
+          <annotation app="2020-07-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-013" eff="2020-07-29" path="" type="History"/>
+          <annotation app="2020-07-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-013" eff="2020-07-29" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.2.3.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this act is to:</text>
+        <para>
+          <num>(a)</num>
+          <text>Authorize and direct the Governor to complete an external financial audit of the Pueblo in accordance with the requirements of the Governing Agreement; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Authorize the Governor to procure an independent licensed auditor; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Require the Governor to provide a copy of the annual audit report to the Council and to direct the auditor to make an in-person presentation to the Council, and to assign to the Governor the responsibility to accept or reject the annual audit prepared by the auditors; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Require the Governor to develop and implement a plan to adequately address all audit findings identified in the annual audit.</text>
+        </para>
+        <annotations>
+          <annotation app="2020-07-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-013" eff="2020-07-29" path="" type="History"/>
+          <annotation app="2020-07-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-013" eff="2020-07-29" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.2.3.030</num>
+        <heading>Findings</heading>
+        <text>The Council hereby declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>the Governing Agreement requires the Pueblo to conduct an annual financial audit by an independent auditor; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>the annual audit is an important indicator of the Pueblo's accounting practices and financial health, and is a valuable tool to safeguard the financial assets of the Pueblo; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>the Governor of the Pueblo oversees and directs the Accounting Department personnel, engages the independent auditor, and is vested with the executive authority and responsibility to ensure that the annual audit is conducted and accepted by the Pueblo and that a plan to address all audit findings is developed and implemented.</text>
+        </para>
+        <annotations>
+          <annotation app="2020-07-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-013" eff="2020-07-29" path="" type="History"/>
+          <annotation app="2020-07-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-013" eff="2020-07-29" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.2.3.040</num>
+        <heading>Contract Authorization for Independent Auditors</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Governor is hereby authorized to negotiate and execute a contract with external and independent qualified auditors to conduct and complete an annual financial audit for the Pueblo in accordance with the requirements of the Governing Agreement.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Governor shall provide a copy of the annual audit report to the Council prior to Governor's acceptance, and shall direct the auditor to make an in-person presentation to the Council regarding the annual audit.</text>
+        </para>
+        <annotations>
+          <annotation app="2020-07-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-013" eff="2020-07-29" path="" type="History"/>
+          <annotation app="2020-07-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-013" eff="2020-07-29" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -8430,9 +8507,29 @@
           <num>(e)</num>
           <text>The Council has determined that the use of a fraction of the investment funds to provide additional protection to the Pueblo's sizeable investment fund is cost-effective and fulfills its fiduciary duty owed to the members of the Pueblo.</text>
         </para>
+        <para>
+          <num>(f)</num>
+          <text>The Pueblo has utilized the services of Dr. Hugh Cohen of Portfolio Monitoring, for at least four years, to oversee and monitor the sizeable investment funds and portfolio of the Pueblo; and</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The services provided by Portfolio Monitoring, LLC helped lower the Pueblo's financial risks and protect the Pueblo's portfolio from significant losses during the recent volatility in the markets caused by the uncertainty surrounding the COVID-19 pandemic; and</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The services provided by Portfolio Monitoring, LLC have also helped the Pueblo earn significant additional revenue while reducing risks; and</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The Council finds it in the best interest of the Pueblo to authorize the continuation of services provided by Portfolio Monitoring, LLC to the Pueblo.</text>
+        </para>
         <annotations>
           <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-002" eff="2018-02-13" path="" type="History"/>
           <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-002" eff="2018-02-13" path="attachments|law|1.3" type="History"/>
+          <annotation app="2020-07-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-015" eff="2020-07-29" path="attachments|law|1.3|(f)" type="History"/>
+          <annotation app="2020-07-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-015" eff="2020-07-29" path="attachments|law|1.3|(g)" type="History"/>
+          <annotation app="2020-07-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-015" eff="2020-07-29" path="attachments|law|1.3|(h)" type="History"/>
+          <annotation app="2020-07-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-015" eff="2020-07-29" path="attachments|law|1.3|(i)" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8440,11 +8537,11 @@
         <heading>Authorization for Portfolio Monitoring, LLC</heading>
         <para>
           <num>(a)</num>
-          <text>The Council hereby authorizes the Pueblo to implement a 3 year contract extension to continue services provided by Portfolio Monitoring, LLC, to provide professional monitoring services of the Pueblo's investment accounts, and to report their written findings to the Pueblo.; and</text>
+          <text>The Council hereby authorizes the Governor to negotiate and execute a contract for the continuation of services provided by Portfolio Monitoring, LLC, to provide professional monitoring services of the Pueblo's investment accounts and to report their written findings to the Council, Governor, and Investment Committee; and</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>The Council hereby authorizes the Governor to negotiate and execute a contract extension with Portfolio Monitoring, LLC, in substantially the same form as proposed and on a sole-source basis due to their highly specialized securities monitoring services and extensive experience; and</text>
+          <text>The Council hereby authorizes the Governor to negotiate and execute a contract with Portfolio Monitoring, LLC on a sole-source basis due to their highly specialized securities monitoring services and extensive experience.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -8457,6 +8554,8 @@
         <annotations>
           <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-002" eff="2018-02-13" path="" type="History"/>
           <annotation app="2018-02-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-002" eff="2018-02-13" path="attachments|law|1.4" type="History"/>
+          <annotation app="2020-07-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-015" eff="2020-07-29" path="attachments|law|1.4|(a)" type="History"/>
+          <annotation app="2020-07-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-015" eff="2020-07-29" path="attachments|law|1.4|(b)" type="History"/>
         </annotations>
       </section>
     </container>
