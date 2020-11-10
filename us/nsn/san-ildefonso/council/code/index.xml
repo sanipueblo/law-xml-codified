@@ -3,8 +3,8 @@
   <heading>Pueblo de San Ildefonso Code</heading>
   <meta>
     <effective>0001-01-02</effective>
-    <recency through="2019-04-12">
-      <doc id="Pueblo de San Ildefonso Council Res. No. SI-R19-009" type="resolution"/>
+    <recency through="2019-05-20">
+      <doc id="Pueblo de San Ildefonso Council Res. No. SI-R19-010" type="resolution"/>
     </recency>
   </meta>
   <xi:include href="./1.xml"/>
