@@ -1885,6 +1885,83 @@
         </annotations>
       </section>
     </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>11.2.20</num>
+      <heading>Act Authorizing the Bureau of Reclamation and its Contractors to Perform the Pilot Water Treatment Plant Testing Plan</heading>
+      <annotation app="2017-05-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-010" eff="2017-05-06" path="" type="History"/>
+      <section>
+        <num>11.2.20.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "ACT AUTHORIZING THE BUREAU OF RECLAMATION AND ITS CONTRACTORS TO PERFORM THE PILOT WATER TREATMENT PLANT TESTING PLAN ("Act")."</text>
+        <annotations>
+          <annotation app="2017-05-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-010" eff="2017-05-06" path="" type="History"/>
+          <annotation app="2017-05-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-010" eff="2017-05-06" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>11.2.20.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to authorize the pilot water treatment plant testing plan as part of the <em>Aamodt</em> water settlement.  The testing plan will study the production capability of a horizontal collector well intake system at the location approved by the Pueblo, validate that the proposed water treatment process equipment will produce drinking water that equals or exceed federal and state drinking water quality standards, and obtain detailed design criteria and operating data that will serve as the basis for final designs and operations and maintenance cost estimates for the proposed water treatment plant.</text>
+        <annotations>
+          <annotation app="2017-05-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-010" eff="2017-05-06" path="" type="History"/>
+          <annotation app="2017-05-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-010" eff="2017-05-06" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>11.2.20.030</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso is a party in the federal water adjudication case of <em>State v. Aamodt</em>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In 2010, the United States enacted the Aamodt Litigation Settlement Act, as part of the Claims Resolution Act of 2010, Pub. L. No. 11-291, Title VI, §§ 601-626, 124 Stat. 3064, 3134-56 (2010), which was signed into law by the President on December 8, 2010 ("Settlement Act" or "Act").</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The four Pueblos of Nambé, Pojoaque, San Ildefonso and Tesuque that are parties to the Aamodt case signed the Settlement Agreement conformed to the Act on March 14, 2013, together with the other four governments affected by the Act.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Settlement Act provides for the construction of a regional water system for the treatment and distribution of drinking water to the residents of the Pojoaque Basin.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The U.S Bureau of Reclamation (BOR) has proposed a PBRWS pilot study for the treatment processes for the proposed Water Treatment Plant to ensure safe reliable treated drinking water.  The pilot study would include a testing plan consisting of a subsurface raw water intake (Ranney-type well), microfiltration/ ultrafiltration (MF/UF) membrane filtration, nanofiltration (NF) membrane demineralization, disinfection, and solids/liquid residuals handling.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The BOR provided information about the proposed Pilot Water Treatment Plant Study via the Pilot Testing Plan, Pojoaque Basin Regional Water System (PBRWS), Contract No. R17PC00023.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Council, having reviewed the Pilot Testing Plan, Pojoaque Basin Regional Water System (PBRWS), Contract No. R17PC00023, finds approval of the pilot water treatment plant testing plan in the best interest of the Pueblo to support the implementation of the <em>Aamodt</em> water settlement and construction of the PBRWS.</text>
+        </para>
+        <annotations>
+          <annotation app="2017-05-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-010" eff="2017-05-06" path="" type="History"/>
+          <annotation app="2017-05-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-010" eff="2017-05-06" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>11.2.20.040</num>
+        <heading>Authorizations</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Governor is hereby authorized to approve the pilot water treatment plant testing plan and authorize the BOR to conduct the pilot study as part of the <em>Aamodt</em> water settlement.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council hereby authorizes and directs the Governor or his designee to take such actions as deemed necessary to carry out the intent and purpose of this Act.</text>
+        </para>
+        <annotations>
+          <annotation app="2017-05-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-010" eff="2017-05-06" path="" type="History"/>
+          <annotation app="2017-05-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-010" eff="2017-05-06" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
