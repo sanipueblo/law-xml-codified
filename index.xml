@@ -19,7 +19,7 @@
       </repositories>
       <platform version="2.2.0" reproducible="true"/>
       <build-date>2021-04-23</build-date>
-      <codified-date>2020-05-13</codified-date>
+      <codified-date>2020-06-03</codified-date>
     </build>
   </meta>
   <xi:include href="./us/nsn/san-ildefonso/council/code/index.xml"/>
