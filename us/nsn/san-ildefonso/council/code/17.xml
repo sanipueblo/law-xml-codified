@@ -1310,5 +1310,77 @@
         </annotations>
       </section>
     </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>17.2.8</num>
+      <heading>Amending Article XI(I) of the Third Amended Articles of Organization and Section 2.7.3 of the Fourth Amended Operating Agreement of San Ildefonso Services, LLC</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-028"/>
+      <annotation app="2017-09-08" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-028" eff="2017-09-08" path="" type="History"/>
+      <section>
+        <num>17.2.8.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe,  recognized as such by the United States of America, with the authority to govern its people, lands and other resources.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>San Ildefonso Services, LLC, is chartered under tribal law as a single member limited liability company wholly owned by the Pueblo, and the Pueblo de San Ildefonso Governor and Council serve as the Member's Representatives.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Pursuant to the Third Amended Articles of Organization and the Fourth Amended Operating Agreement of San Ildefonso Services, LLC, the company is a Manager-Managed LLC with the authority to manage the business affairs of the company vested in a Board of Managers that shall contain three (3) managers elected by the Pueblo de San Ildefonso Council, acting as the Member's Representatives.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Article XI(I) of the Third Amended Articles of Organization and Section 2.7.3 of the Fourth Amended Operating Agreement both require that a quorum for any Managers' Meeting shall consist of three (3) Managers, and if a quorum is not present, the meeting shall be adjourned to a new place and time.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Due to temporary vacancies on the Board of Managers or the occasional unavailability of Managers, the quorum requirement in Article XI(I) of the Third Amended Articles of Organization and Section 2.7.3 of the Fourth Amended Operating Agreement may create an inability of the Board of Managers to hold Managers' Meetings and otherwise act to manage the business affairs of the company.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Pueblo de San Ildefonso Governor and Council, as Member's Representatives, have determined that it is prudent and in the best interests of San Ildefonso Services, LLC to amend the quorum requirement contained in Article XI(I) of the Third Amended Articles of Organization and Section 2.7.3 of the Fourth Amended Operating Agreement to allow a quorum of two (2) Managers for Managers' Meetings.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The sole authority to make amendments to the Articles of Organization is vested in the Pueblo de San Ildefonso Council as Member's Representatives, and any amendments must be written in a Council Resolution.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The Fourth Amended Operating Agreement can only be amended or modified through a written instrument executed by the Member's Representatives.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-028"/>
+          <annotation app="2017-09-08" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-028" eff="2017-09-08" path="" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>17.2.8.020</num>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso Council as Member's Representatives hereby amend and replace Article XI(I) of the Third Amended Articles of Organization in its entirety as follows:</text>
+          <include>
+            <text><strong>Managers' Meetings, Notices, Quorum, and Procedure.</strong>  A quorum for any Managers' Meeting shall consist of two (2) Managers, and if a quorum is not present, the meeting shall be adjourned to a new place and time. An adjournment shall not be necessary, however, and a Managers' Meeting with less than a quorum may be held, if all non-attending Managers agreed in writing prior to the meeting to the holding of the meeting.  All such written consents to the holding of a formal meeting shall be kept and filed with the records of the meeting.  A Manager may participate telephonically, with the consent of the other Managers.</text>
+          </include>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo de San Ildefonso Council as Member's Representatives hereby amend and replace Section 2.7.3 of the Fourth Amended Operating Agreement in its entirety as follows:</text>
+          <include>
+            <text>Quorum.  A quorum for any Manager's Meeting shall consist of two (2) Managers, and if a quorum is not present, the meeting shall be adjourned to a new place and time with notice of the adjourned meeting given to all Managers. An adjournment shall not be necessary, however, and a Manager's Meeting with less than a quorum may be held, if all non-attending Managers agreed in writing prior to the meeting to the holding of the meeting.  All such written consents to the holding of a formal management meeting shall be kept and filed with the records of the meeting.  Ex-officio managers of the LLC shall not be counted in reaching a quorum of the LLC.  A Manager may participate telephonically, with the consent of the other Managers.</text>
+          </include>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Such amendments are incorporated into a Fourth Amended Articles of Organization for San Ildefonso Services, LLC and a Fifth Amended Operating Agreement which are hereby approved.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-028"/>
+          <annotation app="2017-09-08" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-028" eff="2017-09-08" path="" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
 </container>
