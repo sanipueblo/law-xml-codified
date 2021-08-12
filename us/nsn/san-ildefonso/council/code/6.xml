@@ -5656,6 +5656,91 @@
         </annotations>
       </section>
     </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>6.6.8</num>
+      <heading>Investment Funds Management Act of 2017</heading>
+      <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-035" eff="2017-11-03" path="" type="History"/>
+      <section>
+        <num>6.6.8.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as, "INVESTMENT FUNDS MANAGEMENT ACT OF 2017 ("Act")."</text>
+        <annotations>
+          <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-035" eff="2017-11-03" path="" type="History"/>
+          <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-035" eff="2017-11-03" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.6.8.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to authorize the Governor to transfer the Pueblo's reserve funds into new investments accounts, and to authorize the Governor, in consultation with the Controller and other experts, to develop and adopt new investment policies for the new accounts.</text>
+        <annotations>
+          <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-035" eff="2017-11-03" path="" type="History"/>
+          <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-035" eff="2017-11-03" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.6.8.030</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo has operated its government in a fiscally prudent manner and has, over the years, developed a sizeable investment fund for the benefit of the Pueblo's long-term financial health.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo recently conducted an in-depth review of the investment fund and the practices of the current investment advisor, San Francisco Sentry, and has discovered several weaknesses in the investment practices of the Pueblo.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The current investment practices expose the Pueblo's reserve fund to unnecessary risks based on the volatility of the stock market and the lack of diversification.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The transfer of Pueblo's reserve funds into different investment accounts, each bearing a different level of risk, will reduce the level of risk of loss of the Pueblo's funds.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Based on the advice of an independent expert, the investment policies that guide the practices of the investment advisors should be revised to reflect a more realistic approach towards reaching the investment goals of the Pueblo.</text>
+        </para>
+        <annotations>
+          <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-035" eff="2017-11-03" path="" type="History"/>
+          <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-035" eff="2017-11-03" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.6.8.040</num>
+        <heading>Authorization of Transfer of Funds and the Adoption of New Investment Policies</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council hereby authorizes the Governor to negotiate and execute contracts with new investment companies for the purpose of opening new accounts for the investment of the Pueblo's funds ("New Investment Accounts").</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council hereby authorizes the Governor to grant a limited waiver of the Pueblo's sovereign immunity to the new investment companies for sole purpose of enforcing the contract to allow the company or companies to be paid any amount due for their services under the contract, but for no other purposes.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Council hereby authorizes and directs the Governor to transfer all funds currently maintained by San Francisco Sentry to the New Investment Accounts.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Council hereby authorizes and directs the Governor to transfer all uninsured  funds maintained at the Los Alamos National Bank to the New Investment Accounts.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Council hereby repeals Section 6.3 (Long-term Investment Policy) and Section 6.4 (Short-term Investment Policy) of Title VI, Chapter 1 of the Code.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Council hereby authorizes and directs the Governor to develop and adopt new investment policies, based on the recommendations of the Controller and other experts provided, that the Governor shall provide the Council with a copy of the new policies within thirty days of adoption.</text>
+        </para>
+        <annotations>
+          <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-035" eff="2017-11-03" path="" type="History"/>
+          <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-035" eff="2017-11-03" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
