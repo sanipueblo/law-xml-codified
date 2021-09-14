@@ -2833,5 +2833,95 @@
       </section>
     </container>
     <annotation app="2017-07-08" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-020" eff="2017-07-08" path="" type="History"/>
+    <container>
+      <prefix>Part</prefix>
+      <num>19.5.2</num>
+      <heading>Master Land Use Plan Authorization Act</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-012"/>
+      <annotation app="2021-06-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-012" eff="2021-06-15" path="" type="History"/>
+      <section>
+        <num>19.5.2.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "MASTER LAND USE PLAN AUTHORIZATION ACT."</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-012"/>
+          <annotation app="2017-07-08" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-020" eff="2017-07-08" path="" type="History"/>
+          <annotation app="2021-06-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-012" eff="2021-06-15" path="" type="History"/>
+          <annotation app="2021-06-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-012" eff="2021-06-15" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.5.2.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to authorize and direct the completion of a Master Land Use Plan to identify and analyze the Pueblo's lands, including existing and proposed uses, in order to make well-informed land use decisions.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-012"/>
+          <annotation app="2017-07-08" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-020" eff="2017-07-08" path="" type="History"/>
+          <annotation app="2021-06-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-012" eff="2021-06-15" path="" type="History"/>
+          <annotation app="2021-06-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-012" eff="2021-06-15" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.5.2.030</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The population of the Pueblo is increasing putting pressure on existing land uses including the need for additional land for housing, economic development, and other purposes; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo has some land parcels available that could be utilized for new housing and other purposes; however, these land parcels often lack adequate infrastructure; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo has issued land assignments to members of the Pueblo initially for farming purposes although some members and their descendants have utilized or desire to utilize their land assignments for non-farming purposes; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Many years ago, the Pueblo completed a Land Use Plan that began to analyze the current and proposed future uses of the Pueblo's lands; however, the Plan was incomplete, flawed, and is now outdated; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Pueblo finds the need to identify lands that are available for economic development, housing, and other purposes while taking into account the impacts any development will likely have on neighboring lands, existing land uses, the natural environment, culturally- sensitive areas, aesthetics, infrastructure, utilities, and the overall policies established by the Pueblo; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Pueblo has identified the need to commission a new, comprehensive, Master Land Use Plan to professionally study and analyze the Pueblo's lands, including existing and proposed uses, in order to make well-informed decisions regarding the current and future land uses and zoning.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-012"/>
+          <annotation app="2017-07-08" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-020" eff="2017-07-08" path="" type="History"/>
+          <annotation app="2021-06-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-012" eff="2021-06-15" path="" type="History"/>
+          <annotation app="2021-06-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-012" eff="2021-06-15" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.5.2.040</num>
+        <heading>Master Land Use Plan</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Council hereby authorizes and directs the Governor to negotiate and execute a contract or contracts to engage professional services to conduct and complete a Master Land Use Plan for the Pueblo including necessary services to assist with the preparation of a professional Request for Proposal for the Master Land Use Plan contractor; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Master Land Use Plan shall include an up-to-date and comprehensive analysis of the lands held by the Pueblo, and shall include recommendations for land preservation and conservation, housing development, and economic development activities; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Master Land Use Plan shall include an analysis of current land uses, current land policies and practices, proposed land uses, rights-of-way, easements, public property, private property interests including leases and assignments, and any zoning or similar requirements; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Governor shall notify the Council of the estimated cost of contracting for the Master Land Use Plan. The Council hereby authorizes up to $100,000 for the completion of the Master Land Use Plan, subject to an appropriation of funds in the Annual Budget or in a Budget Modification.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-012"/>
+          <annotation app="2017-07-08" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-020" eff="2017-07-08" path="" type="History"/>
+          <annotation app="2021-06-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-012" eff="2021-06-15" path="" type="History"/>
+          <annotation app="2021-06-15" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-012" eff="2021-06-15" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
 </container>
