@@ -2294,5 +2294,76 @@
         </annotations>
       </section>
     </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>17.2.21</num>
+      <heading>San Ildefonso Services, LLC Member's Representatives Compensation Act of 2019</heading>
+      <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="" type="History"/>
+      <section>
+        <num>17.2.21.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as "SAN ILDEFONSO SERVICES, LLC MEMBER'S REPRESENTATIVES COMPENSATION ACT OF 2019" ("Act").</text>
+        <annotations>
+          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="" type="History"/>
+          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>17.2.21.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to establish the rate of compensation for the five Member's Representatives serving on the SIS Board.</text>
+        <annotations>
+          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="" type="History"/>
+          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>17.2.21.030</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso ("Pueblo") has approved Articles of Organization ("Articles") to establish a business corporation called, San Ildefonso Services, LLC ("SIS"), to engage in federal contracting and to conduct other business ventures; and,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In accordance with the Articles, SIS is governed by a Board of Directors comprised of five Members, called "Member's Representatives"; and,</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Council has determined that SIS will benefit from the selection of experienced and well-qualified Member's Representatives to help develop and manage successful business ventures; and,</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Council and Governor have selected five new Member's Representatives to oversee and direct the activities of SIS; and,</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Article X, Section A of the Articles call for the Member's Representatives to be compensated at a rate established by the Council.</text>
+        </para>
+        <annotations>
+          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="" type="History"/>
+          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>17.2.21.040</num>
+        <heading>Establishment of the Rate of Compensation</heading>
+        <text>The Council hereby establishes the rate of compensation for each SIS Member Representative at seventy-five dollars ($75) for each Board meeting including the Annual Meeting and any Special Meetings; provided, a Member Representative shall be compensated for no more than two meetings per month, subject to the appropriation of funds in the Annual Budget for such purposes.</text>
+        <annotations>
+          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="" type="History"/>
+          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>17.2.21.050</num>
+        <heading>Authorization of Funding</heading>
+        <text>The Council hereby authorizes up to $1350.00 for expenditure for compensation for SIS Member's Representatives, subject to the appropriation of funds in an Annual Budget.</text>
+        <annotations>
+          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="" type="History"/>
+          <annotation app="2019-04-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-009" eff="2019-04-12" path="attachments|law|1.5" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
 </container>
