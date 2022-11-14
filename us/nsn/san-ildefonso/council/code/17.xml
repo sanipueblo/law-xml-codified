@@ -1429,5 +1429,60 @@
         </annotations>
       </section>
     </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>17.2.10</num>
+      <heading>Amending the Effective Date of the Amended Articles of Organization for San Ildefonso Services, LLC</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-004"/>
+      <annotation app="2018-04-02" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-004" eff="2018-04-02" path="" type="History"/>
+      <section>
+        <num>17.2.10.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The sovereign authority of the Pueblo is vested in its Council and Governor.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>San Ildefonso Services, LLC, is chartered under tribal law as a single member limited liability company wholly owned by the Pueblo, and the Pueblo de San Ildefonso Governor and Council currently serve as the Member's Representatives.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Council enacted Council Resolution No. SI-R17-047, titled "Approving and Enacting Amended Articles of Organization and Operating Agreement for San Ildefonso Services, LLC".</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>By Council Resolution No. SI-R17-047, the amendments to the Articles of Organization were to be effective as of March 31, 2018.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Council has determined that it is prudent and in the best interests of the Pueblo and San Ildefonso Services, LLC to amend and change the effective date of the Amended Articles of Organization to September 1, 2018.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-004"/>
+          <annotation app="2018-04-02" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-004" eff="2018-04-02" path="" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>17.2.10.020</num>
+        <text>The Council hereby amends the "Fourth Amended Articles of Organization for San Ildefonso Services, a Limited Liability Company Chartered by the Pueblo de San Ildefonso, a federally recognized sovereign" to extend the effective date from March 31, 2018 to September 1, 2018, all other terms of Council Resolution No. SI-R17-047 shall remain in effect.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-004"/>
+          <annotation app="2018-04-02" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-004" eff="2018-04-02" path="" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>17.2.10.030</num>
+        <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-004"/>
+          <annotation app="2018-04-02" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-004" eff="2018-04-02" path="" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
 </container>
