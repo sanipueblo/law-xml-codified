@@ -256,7 +256,7 @@
     </text>
     <heading type="law" proof="needed">THE CIVIL TRESPASS ACT OF 2022</heading>
     <container>
-      <codify:insert doc="Pueblo de San Ildefonso Code" path="24" after="24.9"/>
+      <codify:insert doc="Pueblo de San Ildefonso Code" path="24" after="24.9" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.10.1.010"/>
       <num>24.10</num>
       <heading>Civil Trespass</heading>
       <prefix>Chapter</prefix>
