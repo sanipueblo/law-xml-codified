@@ -244,7 +244,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2023, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
-  <codify:insert>
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.35">
     <container>
       <prefix>Part</prefix>
       <num>6.5.35</num>
@@ -259,19 +259,19 @@
     </text>
     <heading type="law">SUPPORT FOR THE PUEBLO DE SAN ILDEFONSO NATURAL RESOURCE DEPARTMENT TO APPLY FOR ONE-TIME AGRICULTURAL FUNDS FOR FY 2022</heading>
     <section>
-      <codify:insert num-value="6.5.35.010"/>
+      <codify:insert num-value="6.5.35.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.35.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "SUPPORT FOR THE PUEBLO DE SAN ILDEFONSO NATURAL RESOURCE DEPARTMENT TO APPLY FOR ONE-TIME AGRICULTURAL FUNDS FOR FY 2022."</text>
     </section>
     <section>
-      <codify:insert num-value="6.5.35.020"/>
+      <codify:insert num-value="6.5.35.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.35.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The Purpose of this resolution is to support the Pueblo's Natural Resources Department to apply for one-time FY2022 Agriculture Program funds through NPA (Northern Pueblos Agency) to control invasive noxious weeds that are currently impacting rangelands, agricultural lands, and irrigation infrastructure.</text>
     </section>
     <section>
-      <codify:insert num-value="6.5.35.030"/>
+      <codify:insert num-value="6.5.35.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.35.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <para>
@@ -292,7 +292,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="6.5.35.040"/>
+      <codify:insert num-value="6.5.35.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.35.040"/>
       <num>1.4</num>
       <heading>Authorizations</heading>
       <para>
