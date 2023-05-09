@@ -842,6 +842,99 @@
         </annotations>
       </section>
     </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>24.2.9</num>
+      <heading>Act Authorizing Right-Of-Way for Gas Line to Odo Po Properties</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-021"/>
+      <annotation app="2022-11-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-021" eff="2022-11-14" path="" type="History"/>
+      <section>
+        <num>24.2.9.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "Act Authorizing Right-of-Way for Gas Line to Odo Po Properties" (the "Act").</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-021"/>
+          <annotation app="2022-11-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-021" eff="2022-11-14" path="" type="History"/>
+          <annotation app="2022-11-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-021" eff="2022-11-14" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.2.9.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to authorize a right-of-way for a natural gas line to serve the Pueblo's Odo Po Properties.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-021"/>
+          <annotation app="2022-11-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-021" eff="2022-11-14" path="" type="History"/>
+          <annotation app="2022-11-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-021" eff="2022-11-14" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.2.9.030</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso ("Pueblo") possesses inherent sovereign powers over the Pueblo's lands.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo owns three (3) properties and associated buildings known as the Odo Po Properties located within the Pueblo's lands.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo desires to run a natural gas line to serve these properties as shown on Exhibit A.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Bureau of Indian Affairs Northern Pueblos Agency informed the Pueblo that although the Odo Po Properties are owned by the Pueblo, a formal right-of-way must be granted to New Mexico Gas Company for the gas line rather than a service line agreement.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Council has determined that it is in the best interest of the Pueblo to authorize a right-of way for a natural gas line to the Odo Po Properties.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-021"/>
+          <annotation app="2022-11-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-021" eff="2022-11-14" path="" type="History"/>
+          <annotation app="2022-11-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-021" eff="2022-11-14" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.2.9.040</num>
+        <heading>Authorizations</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council hereby authorizes a right-of-way to be granted to the New Mexico Gas Company to install natural gas lines to the Odo Po Properties subject to the following terms:</text>
+          <para>
+            <num>(1)</num>
+            <text>The right-of-way shall be 20 feet wide for approximately 1350 feet of gas line consisting of approximately 1.61 acre of land. The final location and acreage shall be determined by the survey which shall be completed and incorporated as part of the final right-of-way grant.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The term of the right-of-way shall be for twenty-five (25) years, renewable for a second term of twenty-five (25) years, provided that the right-of-way is used for the specified purpose of providing natural gas to the Odo Po Properties.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>There shall be no annual right-of-way compensation required from the New Mexico Gas Company (the "Grantee") since the natural gas line has been requested by the Pueblo and will serve properties owned by the Pueblo.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The right-of-way may be cancelled by the Pueblo and the Grantee, under any negotiated remedies identified in 25 CFR §169.403 and/or in whole or in part by the Pueblo under 25 CFR §169.404, or for cause upon thirty (30) days written notice, and failure of the Grantee to correct the basis for cancellation within the notice period as stated in 25 CFR §169.405.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The Pueblo reserves its jurisdiction over the land subject to the right-of-way, and any person or activity within the right-of-way.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council hereby authorizes the Governor, and his designee(s) to execute all actions and all documents necessary to initiate the intent of this Act.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-021"/>
+          <annotation app="2022-11-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-021" eff="2022-11-14" path="" type="History"/>
+          <annotation app="2022-11-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-021" eff="2022-11-14" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
