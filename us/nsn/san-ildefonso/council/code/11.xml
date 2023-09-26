@@ -3401,7 +3401,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>"Big game animals" means all deer and elk species.</text>
+          <text>"Big game animals" means all deer and elk species, and may include feral cattle.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -3425,42 +3425,47 @@
         </para>
         <para>
           <num>(h)</num>
-          <text>"Firearm" means pistols, revolvers, rifles, shotguns and any device that is capable of being used as a weapon because it expels a projectile by some means of force.</text>
+          <text>"Feral cattle" means cattle without brands, ear tags or other signs of ownership.</text>
         </para>
         <para>
           <num>(i)</num>
-          <text>"Governor" means the Governor of the Pueblo de San Ildefonso or his or her designee.</text>
+          <text>"Firearm" means pistols, revolvers, rifles, shotguns and any device that is capable of being used as a weapon because it expels a projectile by some means of force.</text>
         </para>
         <para>
           <num>(j)</num>
-          <text>"Member" means a person enrolled in the Pueblo de San Ildefonso pursuant to the Governing Agreement and laws of the tribe governing enrollment.</text>
+          <text>"Governor" means the Governor of the Pueblo de San Ildefonso or his or her designee.</text>
         </para>
         <para>
           <num>(k)</num>
-          <text>"Open season" means the time during which a designated category of animals may be hunted or taken pursuant to provisions of this Act.</text>
+          <text>"Member" means a person enrolled in the Pueblo de San Ildefonso pursuant to the Governing Agreement and laws of the tribe governing enrollment.</text>
         </para>
         <para>
           <num>(l)</num>
-          <text>"Tribal Ranger" means a ranger in the Pueblo de San Ildefonso Parks and Wildlife Department.</text>
+          <text>"Open season" means the time during which a designated category of animals may be hunted or taken pursuant to provisions of this Act.</text>
         </para>
         <para>
           <num>(m)</num>
-          <text>"Possession" means on the hunter's person or in his/her immediate control.</text>
+          <text>"Tribal Ranger" means a ranger in the Pueblo de San Ildefonso Parks and Wildlife Department.</text>
         </para>
         <para>
           <num>(n)</num>
-          <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
+          <text>"Possession" means on the hunter's person or in his/her immediate control.</text>
         </para>
         <para>
           <num>(o)</num>
-          <text>"Pueblo lands" means all lands and interests in land within the exterior boundaries of the Pueblo and any additional lands acquired by the Pueblo. Also includes land assignments, community property areas, and public rights-of-way.</text>
+          <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
         </para>
         <para>
           <num>(p)</num>
+          <text>"Pueblo lands" means all lands and interests in land within the exterior boundaries of the Pueblo and any additional lands acquired by the Pueblo. Also includes land assignments, community property areas, and public rights-of-way.</text>
+        </para>
+        <para>
+          <num>(q)</num>
           <text>"Sell" means to offer or possess for sale, barter, exchange or trade, or the act of selling, bartering, exchanging or trading. Sharing of game meat with other members of the Pueblo to avoid spoilage is permitted.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+          <annotation app="2023-03-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-005" eff="2023-03-28" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3595,8 +3600,14 @@
           <heading>Cow Elk:</heading>
           <text>A cow elk is any female, antlerless, elk.</text>
         </para>
+        <para>
+          <num>(d)</num>
+          <heading>Feral Cow:</heading>
+          <text>A feral cow of either sex and any age.</text>
+        </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+          <annotation app="2023-03-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-005" eff="2023-03-28" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3653,18 +3664,20 @@
         </para>
         <para>
           <num>(m)</num>
-          <text>Interference with Tribal Ranger: Any person who disobeys or disregards a direct order of, or interferes with a Tribal Ranger, his designee, or police officer while performing his or her duties under this Act shall have violated this Act and upon conviction, shall be assessed a fine of $300.</text>
+          <text>Interference with Tribal Ranger: Any person who disobeys or disregards a direct order of, or interferes with a Tribal Ranger or other tribal official while performing his or her duties under this Act shall have violated this Act and upon conviction, shall be assessed a fine of $300.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+          <annotation app="2023-03-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-005" eff="2023-03-28" path="" type="History"/>
         </annotations>
       </section>
       <section>
         <num>11.5.1.140</num>
         <heading>Forfeitures of Sporting Arms</heading>
-        <text>Sporting Arms may be seized by the Pueblo and forfeited if they are used to take or attempt to take game in violation of this Act. Sporting Arms may be confiscated at the scene. Upon confiscation, Sporting Arms shall be transported to the Department of Natural Resources for receipt and retention pursuant to a procedure to be prescribed by the Director. A receipt shall be issued to the violator with a description of the Sporting Arm and date. Any Sporting Arm confiscated is subject to forfeiture upon conviction.</text>
+        <text>Sporting Arms may be seized by the Pueblo and forfeited if they are used to take or attempt to take game in violation of this Act. Sporting Arms may be confiscated at the scene. Upon confiscation, Sporting Arms shall be transported to the Department of Natural Resources for receipt and retention pursuant to a procedure to be prescribed by the Director. A receipt shall be issued to the violator with a description of the Sporting Arm and date. Any Sporting Arms confiscated are subject to forfeiture upon conviction.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+          <annotation app="2023-03-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-005" eff="2023-03-28" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3689,9 +3702,10 @@
       <section>
         <num>11.5.1.160</num>
         <heading>Subject Matter Jurisdiction Conferred to Tribal Court</heading>
-        <text>The Pueblo de San Ildefonso Tribal Court shall have subject matter jurisdiction to adjudicate all issues of law and fact, and to enter decrees appropriate to such jurisdiction, pertaining to civil proceedings on complaints filed by the Pueblo pursuant to this Act.</text>
+        <text>The Pueblo de San Ildefonso Tribal Court shall have subject matter jurisdiction to adjudicate all issues of law and fact, and to enter decrees appropriate to such jurisdiction, pertaining to civil proceedings on complaints filed by the Department of Natural Resources pursuant to this Act.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-043"/>
+          <annotation app="2023-03-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R23-005" eff="2023-03-28" path="" type="History"/>
         </annotations>
       </section>
       <section>

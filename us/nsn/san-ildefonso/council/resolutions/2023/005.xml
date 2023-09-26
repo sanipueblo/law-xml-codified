@@ -291,7 +291,7 @@
       </para>
     </section>
   </attachment>
-  <codify:replace path="11.5.1.020">
+  <codify:replace path="11.5.1.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.5.1.020">
     <section>
       <num>11.5.1.020</num>
       <heading>Definitions</heading>
@@ -365,27 +365,27 @@
       </para>
     </section>
   </codify:replace>
-  <codify:insert path="11.5.1.120">
+  <codify:insert path="11.5.1.120" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.5.1.120|(d)">
     <para>
       <num>(d)</num>
       <heading>Feral Cow:</heading>
       <text>A feral cow of either sex and any age.</text>
     </para>
   </codify:insert>
-  <codify:replace path="11.5.1.130|(m)">
+  <codify:replace path="11.5.1.130|(m)" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.5.1.130|(m)">
     <para>
       <num>(m)</num>
       <text>Interference with Tribal Ranger: Any person who disobeys or disregards a direct order of, or interferes with a Tribal Ranger or other tribal official while performing his or her duties under this Act shall have violated this Act and upon conviction, shall be assessed a fine of $300.</text>
     </para>
   </codify:replace>
-  <codify:replace path="11.5.1.140">
+  <codify:replace path="11.5.1.140" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.5.1.140">
     <section>
       <num>11.5.1.140</num>
       <heading>Forfeitures of Sporting Arms</heading>
       <text>Sporting Arms may be seized by the Pueblo and forfeited if they are used to take or attempt to take game in violation of this Act. Sporting Arms may be confiscated at the scene. Upon confiscation, Sporting Arms shall be transported to the Department of Natural Resources for receipt and retention pursuant to a procedure to be prescribed by the Director. A receipt shall be issued to the violator with a description of the Sporting Arm and date. Any Sporting Arms confiscated are subject to forfeiture upon conviction.</text>
     </section>
   </codify:replace>
-  <codify:replace path="11.5.1.160">
+  <codify:replace path="11.5.1.160" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.5.1.160">
     <section>
       <num>11.5.1.160</num>
       <heading>Subject Matter Jurisdiction Conferred to Tribal Court</heading>
