@@ -20,7 +20,7 @@
       </repositories>
       <platform version="2.12.7" reproducible="true"/>
       <build-date>2023-09-26</build-date>
-      <codified-date>2019-11-13</codified-date>
+      <codified-date>2019-11-15</codified-date>
       <publication>publication/2023-09-26</publication>
     </build>
   </meta>
