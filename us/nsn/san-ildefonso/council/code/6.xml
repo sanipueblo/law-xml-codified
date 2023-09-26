@@ -10904,6 +10904,73 @@
         </annotations>
       </section>
     </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>6.7.5</num>
+      <heading>Wage and Compensation Authorization Act of 2022</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-014"/>
+      <annotation app="2022-10-24" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-014" eff="2022-10-24" path="" type="History"/>
+      <section>
+        <num>6.7.5.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "WAGE AND COMPENSATION AUTHORIZATION ACT OF 2022" ("Act").</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-014"/>
+          <annotation app="2022-10-24" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-014" eff="2022-10-24" path="" type="History"/>
+          <annotation app="2022-10-24" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-014" eff="2022-10-24" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.7.5.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to authorize the Governor to develop and implement a Wage and Compensation Scale for employees of the Pueblo.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-014"/>
+          <annotation app="2022-10-24" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-014" eff="2022-10-24" path="" type="History"/>
+          <annotation app="2022-10-24" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-014" eff="2022-10-24" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.7.5.030</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>employees of the Pueblo provide valuable services to the Pueblo by committing their time and energy, and by fulfilling their job duties and responsibilities, for the benefit of the Pueblo and the People; and,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>the Pueblo pays its employees for their service and commitment, although rates of pay and wages have not always been uniform or consistent, including the availability of wage increases based on job performance and longevity; and,</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>the Council and Governor have been working together to make improvements to the process for determining employee salaries and rates of pay for consistency and fairness purposes; and,</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>the Council has identified the need authorize and direct the Governor to develop and implement a wage and compensation scale for employees of the Pueblo in order to provide predictability and uniformity in employee compensation for the benefit of both the employees and the Pueblo; and,</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>as part of the improvements, the Council has determined that appropriate adjustments to position descriptions and job duties should be made to conform to the new wage scale.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-014"/>
+          <annotation app="2022-10-24" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-014" eff="2022-10-24" path="" type="History"/>
+          <annotation app="2022-10-24" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-014" eff="2022-10-24" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.7.5.040</num>
+        <heading>Wage Scale</heading>
+        <text>The Council hereby authorizes and directs the Governor to development and implement an equitable wage and compensation scale for the employees of the Pueblo. The Governor shall review the wage and compensation scale every two years and shall make appropriate adjustments as necessary.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-014"/>
+          <annotation app="2022-10-24" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-014" eff="2022-10-24" path="" type="History"/>
+          <annotation app="2022-10-24" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-014" eff="2022-10-24" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
