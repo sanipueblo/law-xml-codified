@@ -975,6 +975,79 @@
         </annotations>
       </section>
     </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>4.2.2</num>
+      <heading>Court Filings Limitation Act of 2017</heading>
+      <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-033" eff="2017-11-03" path="" type="History"/>
+      <section>
+        <num>4.2.2.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "COURT FILINGS LIMITATION ACT OF 2017."</text>
+        <annotations>
+          <annotation type="History">1984 Code</annotation>
+          <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-033" eff="2017-11-03" path="" type="History"/>
+          <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-033" eff="2017-11-03" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>4.2.2.020</num>
+        <heading>The Court Filings Limitation Act provides as follows:</heading>
+        <para>
+          <num>(a)</num>
+          <text>Affected Cases</text>
+          <para>
+            <num>(1)</num>
+            <text>This Act applies to those cases filed during 2013-2015 in which the status cannot be determined because essential files are missing.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Re-filing</text>
+          <para>
+            <num>(1)</num>
+            <text>In affected cases, the original party(ies) may:</text>
+            <para>
+              <num>(A)</num>
+              <text>Re-file the original action, attaching copies of any documents from the original proceedings the parties may possess.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>File a Request for Dismissal, including a statement explaining how the case has been otherwise resolved or a showing that there is no live issue remaining.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Limitation on Filing</text>
+          <para>
+            <num>(1)</num>
+            <text>A filing made pursuant to the Act must be made, and date stamped by the Trial Court, within 160 days of the passage of this Act.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Dismissal of Cases not Re-filed</text>
+          <para>
+            <num>(1)</num>
+            <text>In any Affected Case, in which no party has re-filed or requested a dismissal within 160 day limit,</text>
+            <para>
+              <num>(A)</num>
+              <text>if any case information is available, the Court will enter dismissal and close the case file;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>if case information is insufficient to enter a dismissal, (i.e., no case name or number), by the authority of this Act, the case will be deemed dismissed and the case filed considered closed.</text>
+            </para>
+          </para>
+        </para>
+        <annotations>
+          <annotation type="History">1984 Code</annotation>
+          <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-033" eff="2017-11-03" path="" type="History"/>
+          <annotation app="2017-11-03" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-033" eff="2017-11-03" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
