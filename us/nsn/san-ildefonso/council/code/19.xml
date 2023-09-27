@@ -1,0 +1,1375 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" containing-doc="Pueblo de San Ildefonso Code">
+  <prefix>Title</prefix>
+  <num>19</num>
+  <heading>COMMUNITY</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>19.1</num>
+    <heading>Department of Tribal Services</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>19.1.1</num>
+      <heading>Department of Tribal Services Enabling Act</heading>
+      <annotations>
+        <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-026, dated June 18, 2012.</annotation>
+      </annotations>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-026"/>
+      <section>
+        <num>19.1.1.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>Annual budget items may only be included if they have first been authorized by law as required by Section 5(a)(ii)(A) of the Agreement;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council finds that reorganizing the structure of governmental departments and programs will promote efficiency within the Tribe;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Council finds that establishing a Department of Tribal Services will assist the Tribe in efficiently administering services provided by Human Resources, Facilities, Aid to Tribal Government; Information Technology, and Tourism.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-026"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.1.1.020</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the Department of Tribal Services Act ("Act").</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-026"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.1.1.030</num>
+        <heading>Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>"Agreement" means the Pueblo de San Ildefonso governing Agreement.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Council" means the Pueblo de San Ildefonso Council.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-026"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.1.1.040</num>
+        <heading>Purpose</heading>
+        <text>The Purpose of the Act is to establish the Department of Tribal Services.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-026"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.1.1.050</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>reorganizing the structure of governmental departments and programs will promote efficiency within the Tribe; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>establishing a Department of Tribal Services will assist the Tribe in achieving efficient administration of services provided by Human Resources, Facilities, Aid to Tribal Government; Information Technology, and Tourism.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-026"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.1.1.060</num>
+        <heading>General Policy</heading>
+        <text>Department of Tribal Services.  This act shall establish the Department of Tribal Services to efficiently administer services provided by Human Resources, Facilities, Aid to Tribal Government; Information Technology, and Tourism.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-026"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.1.1.070</num>
+        <heading>Organization of the Department of Tribal Services</heading>
+        <para>
+          <num>(a)</num>
+          <text>There shall be a Director of the Department of Tribal Services who shall oversee the general supervision of the department.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In order to promote efficiency within the Department of Tribal Services, program offices will be established as necessary.  A program director shall oversee the general supervision of the each program office and shall report to the Director of the Department of Tribal Services.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Department of Tribal Services includes the following program offices:</text>
+          <para>
+            <num>(1)</num>
+            <text>Human Resources</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Facilities</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Aid to Tribal Government</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Information Technology</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Tourism</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-026"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.1.1.080</num>
+        <heading>Department of Tribal Services Goals and Objectives</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Department of Tribal Services.</heading>
+          <text>The overall mission of the Department of Tribal Services is to efficiently administer services provided by Human Resources, Facilities, Aid to Tribal Government; Information Technology, and Tourism.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Human Resources ("HR").</heading>
+          <text>The HR program office shall efficiently manage the Pueblo's human resources, ensure compliance with applicable regulations, provide assistance in personnel management, coordinate recruitment, selection, and hiring, and address employee relations issues.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Facilities.</heading>
+          <text>The Facilities program office shall manage and maintain the Tribe's facilities, buildings and assets, including water, sanitation and sewage systems and utility systems.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Aid to Tribal Government ("ATTG").</heading>
+          <text>The ATTG program office shall administer the Tribal membership enrollment process, issue Certificates of Indian Blood ("CIB") to eligible members, and maintain the Pueblo enrollment system.  The ATTG program office responsibilities include data collection and management, accurate record and documentation management and ensuring compliance with applicable guidelines and laws.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Information Technology("IT").</heading>
+          <text>The IT program office shall manage and maintain the computer network system of the administration of the Pueblo, provide advanced technical assistance, and ensure quality of systems operation in all areas of the organization.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Tourism.</heading>
+          <text>The Tourism program office is responsible for management of the Pueblo's Visitor Center which provides information on local events and activities, culture, local arts and artists, shops, information regarding local guidelines and restrictions or restricted areasto the general public.  The Tourism program office shall gather and utilizes tourist and visitor information including visitor demographics and numbers, visitor trends, and related information.  The Tourism program office is responsible for sales of merchandise, issuing visitor permits and collecting photo permits and other fees, tracking revenues generated, and analyzing marketing trends for use in planning.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-026"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.1.1.090</num>
+        <heading>Amendment</heading>
+        <text>The Council may amend this enabling act or reorganize the Department of Tribal Services at any time upon majority vote of the Council.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-026"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.1.1.100</num>
+        <heading>Sovereign Immunity</heading>
+        <text>Nothing in this Act waives the sovereign immunity of the Pueblo or any of its representatives, officers, or employees.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-026"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.1.1.110</num>
+        <heading>Severability</heading>
+        <text>If a court of competent jurisdiction finds any provision of this Act to be invalid or illegal under applicable tribal and/or federal law, such provision shall be severed from this Act and the remainder of this Act shall remain in full force and effect.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-026"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>19.1.2</num>
+      <heading>Public Use Requirements for Tunyo Po Sidewalk and School Crossing Improvement Project Act of 2016</heading>
+      <annotations>
+        <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R16-008, dated May 25, 2016.</annotation>
+      </annotations>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-008"/>
+      <section>
+        <num>19.1.2.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo received Federal Funds from the New Mexico Transportation Alternative Program Funds (TAP) under the New Mexico Department of Transportation for the Tunyo Po Sidewalk and School Crossing Improvement Project, Control No. 5100973;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Receipt of the TAP Funds requires that the project must be dedicated and open for public use; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Council finds the need to affirmatively state that the entire sidewalk facility that is constructed and improved through the use of the TAP funds shall be dedicated for public use.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Council hereby enacts the attached law entitled, "Public Use Requirements for Tunyo Po Sidewalk and School Crossing Improvement Project Act of 2016."</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-008"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.1.2.020</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "Public Use Requirements for Tunyo Po Sidewalk and School Crossing Improvement Project Act of 2016."</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-008"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.1.2.030</num>
+        <heading>Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>"Pueblo" means the Pueblo de San Ildefonso.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Tunyo Po Sidewalk and School Crossing Improvement Project" means the project funded through federal Transportation Alternative Program (TAP) funds administered by the State of New Mexico Department of Transportation.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-008"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.1.2.040</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to affirmatively dedicate that the entire sidewalk facility that is constructed and improved through the use of the TAP funds shall be for public use.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-008"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.1.2.050</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>On October 4, 2013, the Council approved Council Resolution No. SI-R13-039: "Support Resolution for the Pueblo de San Ildefonso Transportation Division to Submit an Application to the New Mexico Department of Transportation for Federal Fiscal Year 2014/2015 Transportation Alternative Program Funds;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo received Federal funds from the New Mexico Transportation Alternative Program in the amount of $22,890.00 for the design and $130,381.00 for the construction of the Tunyo Po Sidewalk and School Crossing Improvements Project, Control No. 5100973;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo is providing a matching contribution of $22,218.00 for the construction for a total project cost of $175,489.00; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Receipt of the TAP Funds requires that the project must be dedicated and open for public use; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>A portion of the area for the sidewalk facilities lies outside of the existing Tunyo Po right-of-way and there is the need to confirm that entire sidewalk constructed under this project will be open for use by the public regardless of the location.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-008"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.1.2.060</num>
+        <heading>Tunyo Po Sidewalk and School Crossing Dedicated for Public Use</heading>
+        <text>The Pueblo property upon which the entire sidewalk facility that is constructed and improved through the Tunyo Po Sidewalk and School Crossing Improvement Project shall be dedicated for public use.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-008"/>
+        </annotations>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>19.2</num>
+    <heading>Animal Control</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>19.2.1</num>
+      <heading>Animal Control Act</heading>
+      <annotations>
+        <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R16-025, dated November 6, 2016.</annotation>
+      </annotations>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-025"/>
+      <section>
+        <num>19.2.1.010</num>
+        <heading>FINDINGS, PURPOSE AND APPLICABILITY.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Short Title:</heading>
+          <text>This law shall be known as the "Animal Control Act" or "Act."</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Findings:</heading>
+          <text>Untreated animals and uncontrolled roaming of animals on Pueblo Lands pose a threat to the public.  Preventing the spread of disease transmitted by animals, controlling the animal population, and preventing neglect or abuse of animals are proper concerns of the Pueblo.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Purpose:</heading>
+          <text>The purpose of this Act is to preserve the public's health, peace, and safety by preventing the abuse and neglect of animals, preventing the over-population and roaming of animals, preventing and controlling the spread of diseases transmittable from animals to humans, and fostering a culture that promotes the proper care of the animals on Pueblo Lands.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Applicability.</heading>
+          <text>It is a violation of this Act to own an animal except as provided for in this Act.  This Act applies to all animals within the exterior boundaries of Pueblo Lands.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-025"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.2.1.020</num>
+        <heading>EFFECTIVE DATE.</heading>
+        <text>The provisions of this Act shall supersede any or all other rules, regulations, or customs that conflict with this Act, and shall be effective six months after enactment.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-025"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.2.1.030</num>
+        <heading>DEFINITIONS.</heading>
+        <text>Subject to additional definitions contained in subsequent parts of this Act or unless otherwise specified, the following definitions apply, unless the context otherwise requires:</text>
+        <para>
+          <num>(a)</num>
+          <text>"Abandon" means to desert or give up an animal without having secured another owner for the animal or by failing to provide the elements of basic care for a period of five (5) consecutive days.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Animal" means any mammal, bird, reptile, amphibian, or fish.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Animal Control Officer" means any person employed, contracted, or appointed by the Governor to enforce this Act.  The Animal Control Officer may include a local law enforcement official, a ranger, or any other Person that may be designated by the Governor.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"Horse" includes a horse, pony, mule, burro, ass, or donkey.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>"Impound" means taking or receiving an animal into custody to confine it.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>"Own" means:</text>
+          <para>
+            <num>(1)</num>
+            <text>To have a property right in an animal;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>To keep, harbor, or maintain an animal;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>To have an animal in one's care;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>To be or act as a custodian of an animal; or</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>To knowingly allow an animal to stay on any premises occupied by the Owner.</text>
+          </para>
+          <aftertext>If there is evidence that a person feeds an animal for five (5) or more consecutive days, it will be assumed that the animal is owned by the person unless the person proves otherwise or reports the animal to the Animal Control Officer as a stray.</aftertext>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>"Owner" means any person who owns an animal.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>"Person" includes, but is not limited to, any individual, firm, group, association, partnership, corporation, or any other entity whatsoever.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>"Pound" means any establishment authorized by the Council for the confinement, maintenance, safekeeping, and control of animals that are impounded.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>"Provocation" or "provoked" includes intentional or unintentional acts that could reasonably be expected to cause, incite, or encourage an animal to immediately bite the person.  The animal's reaction to the act of provocation cannot be grossly out of proportion to the provocative act itself.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>"Pueblo Lands" means all lands owned by, or within the jurisdiction of, the Pueblo.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>"Public Health Official" means an official from the United States Public Health Service.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>"Quarantine" means restriction of the activities of an animal that has been exposed, or is suspected of being exposed, to a communicable disease during a period of communicability or incubation.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>"Rabies" means a rhabdovirus of the genus <em>Lyssavirus</em>.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>"Rabies Quarantine Area" means any area in which a state of emergency has been declared to exist due to the occurrence or potential occurrence of rabies in animals in or adjacent to this area.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-025"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.2.1.040</num>
+        <heading>SCHEDULE AND USE OF FEES AND FINES.</heading>
+        <para>
+          <num>(a)</num>
+          <text>The amount of fees and/or range of fines to be levied and collected under this Act shall be determined, from time to time, by the Governor or his designee pursuant to notice and comment rule-making.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Nothing in this Act shall prevent the Animal Control Officer from imposing administration fees and fines in addition to any fees and fines imposed by the Court pursuant to Section 10.20(D) of this Act.  All fees and fines collected under this Act will be used to defray the expense of administrating the provisions of this Act including providing access to medical treatment, vaccines, sterilization programs, feed, or the cleaning, repair, maintenance, or construction of facilities used for animals, as appropriated by the Council by law.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-025"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.2.1.050</num>
+        <heading>ANIMAL CONTROL OFFICER.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Authority.</heading>
+          <text>The Animal Control Officer is responsible for the execution and enforcement of this Act, under the direction of the Governor.  The Governor shall be authorized to obtain and provide appropriate training and equipment for Animal Control Officers.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Powers and Responsibilities.</heading>
+          <text>In addition to powers and responsibilities authorized elsewhere in this Act, the Animal Control Officer has the following powers and responsibilities:</text>
+          <para>
+            <num>(1)</num>
+            <text>To investigate violations or suspected violations of this Act, including entering private property, but only with probable cause, to investigate a violation or possible violation of this Act;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>To enter onto private property without probable cause to apprehend an animal that is at-large.  Such entrance upon private property shall be in reasonable pursuit of the animal and shall not include a right of entry into a domicile or enclosure unless it is at the invitation of a resident or occupant;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>To issue civil citations based on probable cause that a violation of this Act has been committed or to issue orders, warnings, or recommendations directing owners to take certain preventative or corrective measures;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>To prosecute citations in the Pueblo Courts and to testify in such prosecutions;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>To supervise the operation of the community Pound, or the contracting of such services to another entity;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>To institute, as necessary, educational programs to acquaint residents of the Pueblo with the provisions of this Act;</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>To administer rabies vaccinations to animals and to issue rabies certificates for such animals but only after the development of a sustainable and professional vaccination program;</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>To provide reasonable medical resources to Owners when available, on a fee-basis or without charge, depending on the circumstances of each case; and</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>To perform such other appropriate activities related to the enforcement of this Act or other duties as are assigned to the Animal Control Officer by this Act, by his or her supervisor, or by the Governor.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Records.</heading>
+          <text>The Animal Control Officer must keep complete, correct, and legible records of appropriate matters for five (5) years after the date to which the records relate.  The records to be kept shall include, but are not limited to, the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>Investigative records of every violation or possible violation investigated;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Civil citations issued, including the date of the violation, name and address of the Owner of the animal, and any written orders issued or actions taken;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Animals impounded, including the disposition of the animals;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Animal bite cases;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Reports of positive diagnosis of rabies related to animals;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>The destruction of all animals pursuant to this Act; and</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>All other records deemed necessary by the Animal Control Officer.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>General Liability of Animal Control Officers.</heading>
+          <text>No Animal Control Officer will be held liable for the death or injury to any animal that occurs during an attempt to capture, incapacitate, or euthanize the animal, while responding to an emergency situation, or while attempting to ensure his or her own safety or the safety of others.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-025"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.2.1.060</num>
+        <heading>CARE OF ANIMALS.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Minimum Level of Care.</heading>
+          <text>Owners must provide the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>Enough food of sufficient nutritional value to maintain the animal in good health.  The food provided must be free from harmful contamination, including free from dirt, sand, or other contamination caused by not storing or feeding in an appropriate container;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Drinkable water accessible to the animal at all times in a clean receptacle;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Reasonable medical treatment, which may include traditional methods of treatment; and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>When confined, the animal must be confined in an adequate enclosure that provides reasonable access to natural or artificial shelter protecting the animal from temperature extremes.  The enclosure must provide adequate ventilation and must be of a size that minimizes the risk of the animal contracting a disease, being injured, or becoming infested with parasites.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-025"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.2.1.070</num>
+        <heading>LIMITATIONS ON THE NUMBER OF ANIMALS.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Dogs and Cats.</heading>
+          <text>A household may not have more than two dogs over the age of four (4) months nor may it have more than two cats over the age of four (4) months; provided, that any person who owns more than two dogs or two cats on the date of the enactment of this Act may keep such dogs or cats for their natural lives as long as the Owner is in compliance with all other provisions of this Act.  A household that exceeds these limits must turn any animal over the household limit over to the Animal Control Officer for adoption or destruction within ten (10) days of written notice from the Animal Control Officer to any member of the household eighteen years of age or older.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-025"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.2.1.080</num>
+        <heading>ANIMALS AT LARGE.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>No Roaming Permitted.</heading>
+          <text>No animal shall be permitted to roam at large, with or without a license or rabies vaccination, on Pueblo Lands.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Definition.</heading>
+          <text>An animal is roaming when it is not:</text>
+          <para>
+            <num>(1)</num>
+            <text>Securely tied or fenced-in so that the animal is confined entirely to the owner's property; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Physically restrained on a leash, halter, or other secure device and under the direct control of a person fourteen (14) years of age or older; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Temporarily enclosed in a humane manner within a vehicle, a cage, or similar enclosure.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Exception.</heading>
+          <text>Animals properly vaccinated and licensed shall not be considered to be roaming if they are under the direct, in-person control or supervision of an adult Person or Owner.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-025"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.2.1.090</num>
+        <heading>LICENSING.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>False or Misleading Statement or Information.</heading>
+          <text>An Owner shall not make false or misleading statements or provide false or misleading information during any stage of the licensing process.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>License Required.</heading>
+          <text>All Animals, including dogs and cats, four (4) months of age or older must be licensed.  Licenses shall be issued by the Animal Control Officer.</text>
+          <para>
+            <num>(1)</num>
+            <text>Any animal subject to licensing under this Section must be licensed within fourteen (14) days of the date the animal is acquired by the Owner or brought onto Pueblo Lands.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>An animal subject to licensing under this Section and that is on Pueblo Lands for fourteen (14) days or less is exempt from the licensing requirement of this Section, but the Owner must present a current rabies vaccination before the animal may enter Pueblo Lands.  Any Owner who is not able to present this documentation will be ordered to immediately remove the animal from Pueblo Lands.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Requirements for License.</heading>
+          <text>Before a license may be issued, the Owner must:</text>
+          <para>
+            <num>(1)</num>
+            <text>Pay any applicable license fees; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Present a rabies vaccination certificate or current tag to the Animal Control Officer proving that the animal has been vaccinated with a vaccine licensed by the United States Department of Agriculture as recommended in the then current Compendium of Animal Rabies Control prepared by the National Association of State Public Health Veterinarians.  The certificate must be signed by a veterinarian or, after the development of a sustainable vaccination program, by the Animal Control Officer.  The certificate must state the Owner's name and address, the animal's description, the date of vaccination, the vaccine type, the vaccine manufacturer and lot number and/or serial number, and the date that revaccination is due.  If the vaccination was administered by a veterinarian, the form shall also state the veterinarian's name and address.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Form of License.</heading>
+          <text>Each license issued shall consist of a license receipt and a suitable tag.</text>
+          <para>
+            <num>(1)</num>
+            <text>The license receipt shall state the license fee paid, the name, address and telephone number of the Owner, the date of payment, the date the license was issued and expires, the serial number, a general description including color, sex, name, and breed of the animal, and whether the animal has been neutered or spayed.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The tag shall have inscribed on it "San Ildefonso", the number of the license, and the date on which it expires.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Presentation of License; Failure to Present.</heading>
+          <text>Upon request by the Animal Control Officer, an Owner must promptly present its animal's license receipt.  In addition to any other penalties or remedies under this Act, the Animal Control Officer may also order impoundment and the proper disposition of the animal if the Owner fails to produce such a license receipt.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Wearing of Tag by Animal.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Every dog or cat must wear its tag on a securely attached collar, halter, or similar device whenever the animal is off the Owner's premises.  An animal found without a tag while off its Owner's premises may be considered unlicensed.  The burden of proof that the animal is licensed or not required to wear a tag is on the Owner.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Temporary Removal of Tag.  An animal does not have to wear its tag if wearing a collar, halter, or similar device will worsen a skin condition.  In order to avoid citation, the skin condition must be reasonably observable by the Animal Control Officer.</text>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <heading>Expiration; Renewal.</heading>
+          <text>All licenses issued under this Act will expire two years from the date of issuance.  A renewal will be issued upon completion of any required forms and payment of any required renewal fee. Extensions for renewal of an expired license may be given in the sole discretion of the Animal Control Officer.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <heading>Replacement License.</heading>
+          <text>An Owner may get a license receipt or tag replaced after the Owner submits an application and pays any applicable replacement fee.  The expiration date for the replacement shall be the same date as for the item being replaced.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <heading>Failure to Pay Fee.</heading>
+          <text>Payment of any applicable fee in this Section must be made when due.  Payment of an applicable fee after a citation is issued but before a summons to appear is issued does not relieve the Owner from paying any fine ordered by the Courts for failure to pay the fee in a timely manner.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <heading>Pay Over of Fees.</heading>
+          <text>All licensing fees collected pursuant to this Act must be held over and paid to an account designated by the Governor in accordance with the Pueblo's accounting policies.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-025"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.2.1.100</num>
+        <heading>VICIOUS ANIMALS; PUBLIC NUISANCE.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Definition of Vicious.</heading>
+          <text>Hunting dogs are exempt from the provisions of this Section when engaged in any legal hunt or training procedure.  Dogs that have been classified as vicious may not be used for hunting purposes.  An animal is vicious if, without provocation, it is an animal that:</text>
+          <para>
+            <num>(1)</num>
+            <text>Has attacked, bitten, seriously injured, or killed a person or other animal; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Has, on two or more separate occasions in a six (6) month period,  engaged in behavior that required a person or another animal to take defensive action in order to avoid serious injury; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Continues to exhibit behavior that previously resulted in the animal being found vicious by the Court; or</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Demonstrates a tendency to continually expose humans or other animals to the potential of rabies, as recorded through the Rabies Quarantine Program administered by the Animal Control Officer.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Definition of Public Nuisance.</heading>
+          <text>An animal is a public nuisance if it:</text>
+          <para>
+            <num>(1)</num>
+            <text>Harasses any passing person or animal or chases any passing vehicle; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Attacks other animals; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Barks, howls, or creates other animal noises so as to repeatedly and incessantly disturb the peace and quiet of any person; or</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Roams repeatedly at-large, or roams at-large during any ceremonial or traditional activity; or</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Overturns or spreads garbage or other property about; or</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Runs through, tears up, or eats lawns, gardens, crops, or landscaping; or</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Creates a substantial and continuous disturbance or annoyance to a person, property, or animals.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Confinement Before Judgment.</heading>
+          <text>Any animal cited as vicious or as a public nuisance may be ordered confined or impounded by the Animal Control Officer until the Court enters its judgment.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Disposition of Animal.</heading>
+          <text>The Court may order that the animal be released without conditions, released under conditions ordered by the Court, or euthanized; provided, that any animal that, without provocation, bites so as to cause a severe abrasion of the skin of a person requiring professional medical treatment may only be euthanized pursuant to Section 10.11(C) after the Court makes specific findings as to the severity of the injury and the Court finds no special circumstances or mitigating factors to justify the animal's release with or without conditions.  Any order of the Court requiring the destruction of any animal shall be stayed pending the exhaustion of any appeal and final disposition by the Supreme Court.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Sign.</heading>
+          <text>The Owner of an animal deemed vicious by the Court shall, in addition to any other conditions ordered by the Court, post a sign in a prominent place on the Owner's premises, easily readable by the public, using the words "Vicious Dog."  The posting of a sign does not relieve an owner from liability for a citation under Section 10.11(B) or from civil liability.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-025"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.2.1.110</num>
+        <heading>WHEN AN ANIMAL BITES.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Notice.</heading>
+          <text>Whenever an animal bites any person or other animal, the incident must be reported to the Animal Control Officer immediately by any person having direct knowledge of the incident, including, but not limited to, members of the public, employees or staff of school(s) or medical facilities, and law enforcement officers.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Citation.</heading>
+          <text>The Animal Control Officer may cite the Owner of the biting animal, irrespective of whether the animal was known to be vicious prior to the attack.  Proof that the person bitten provoked the attack is a defense.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Destruction of an Animal That Has Bitten.</heading>
+          <text>No person except the Animal Control Officer shall euthanize any animal that has bitten a person or another animal, except that:</text>
+          <para>
+            <num>(1)</num>
+            <text>Any person who destroys any animal while the animal is attacking a person or another animal in an effort to stop said attack shall not be civilly or criminally liable for destroying the animal; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A wild animal that bites any person shall be killed and submitted to the Animal Control Officer.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Quarantine; Impoundment.</heading>
+          <text>The Animal Control Officer shall order any animal that bites so as to cause abrasion of the skin to be (1) confined and quarantined at the property of the Owner or at some other appropriate location on the Pueblo, including a veterinary hospital should one be established, or (2) impounded for a period of time as determined by the Animal Control Officer.  If quarantined at the property of the Owner or at a veterinary hospital, the Owner shall make the animal available for inspection upon request by the Animal Control Officer.  If an animal becomes sick and/or dies while being confined or quarantined, the Owner shall immediately contact the Animal Control Officer to determine the proper disposition of the body.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Liability for an Animal Bite.</heading>
+          <text>The Owner of an animal that bites without provocation while the person is on public property, or lawfully on private property, including the property of the Owner of the animal, shall be liable for any damages suffered by the person bitten, regardless of the former viciousness of the animal or the Owner's knowledge of such viciousness.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-025"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.2.1.120</num>
+        <heading>DESTRUCTION OF ANIMALS.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Humane Method.</heading>
+          <text>Any animal euthanized under the provisions of this Act must be euthanized as humanely as possible.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Injured or Diseased Animals.</heading>
+          <text>An animal that is clearly suffering from serious injury, is in great pain and not likely to survive, or an animal that has evidence of any infectious or contagious disease that is a danger to other animals or humans may be euthanized by the Animal Control Officer or by another person under order by the Animal Control Officer, after reasonable efforts to notify the Owner have been made.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-025"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.2.1.130</num>
+        <heading>ABANDONMENT; DUMPING.</heading>
+        <text>It is unlawful to release, dump, or abandon live animals anywhere on Pueblo Lands.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-025"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.2.1.140</num>
+        <heading>[RESERVED]</heading>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-025"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.2.1.150</num>
+        <heading>RESPONSIBILITY FOR REMOVAL OF CARCASS.</heading>
+        <text>An Owner is responsible for removing and appropriately disposing of all animal carcasses, no matter where the carcass is located, and all expenses associated with the removal and disposal.  Burial of horses must be at a depth of no less than six (6) feet and only at a sight approved by the Solid Waste Department and that does not interfere with ground water.  Other animals need only be buried at a depth of no less than three (3) feet.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-025"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.2.1.160</num>
+        <heading>DISEASED ANIMALS.</heading>
+        <text>Any animal afflicted with a contagious or infectious disease must be confined by a fence or pen at all times and may not be removed from its enclosure, even when held by a leash, halter, or other secure device, except for the purpose of being transported to and from a licensed veterinarian.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-025"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.2.1.170</num>
+        <heading>ANIMALS NOT PERMITTED.</heading>
+        <text>Animals not permitted on the Pueblo will be ordered off the Pueblo or seized and disposed of; provided, that an owner of such animal(s) may apply for a waiver of subsection (A) and (B) below from the Animal Control Officer who shall grant a waiver if the owner can demonstrate that the animal(s) is properly cared for and maintained so as not to create a public safety issue.  The following animals are not permitted on Pueblo Lands unless a waiver is obtained from the Animal Control Officer:</text>
+        <para>
+          <num>(a)</num>
+          <heading>Cats and/or Dogs not Spayed/Neutered.</heading>
+          <text>Cats or dogs six (6) months of age or older that have not been spayed or neutered.  Proof of the animal's status as spayed or neutered must be provided to the Animal Control Officer.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Certain Breeds of Dog.</heading>
+          <text>Dogs of the Rottweiler, Cattle Dog, or Pit Bull breed.  Sterilized dogs of these breeds already on Pueblo Lands as of the effective date of this Act and that do not exceed the household limit under Section 10.7 are permitted to live out their natural lives, but only after the Owner receives a special permit issued by the Animal Control Officer.</text>
+          <para>
+            <num>(1)</num>
+            <text>"Cattle Dog" means any Australian Cattle Dog, including, but not limited to, any Australian Heeler, Hall's Heeler, Queensland Heeler, Blue Heeler, Australian Cattledog, Australischer Treibhund, or any American Cattle Dog or American version thereof.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>"Pit Bull" means any pit bull terrier, including, but not limited to, any American pit bull terrier, Staffordshire bull terrier, American bulldog or American Staffordshire terrier breed of dog or any mixed breed of dog which contains as an element of its breeding the breed of American pit bull terrier, Staffordshire bull terrier, American bulldog or American Staffordshire terrier so as to be identifiable as partially of the breed American pit bull terrier, Staffordshire bull terrier, American bulldog or American Staffordshire terrier.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Any person found to have such breed of dog acquired after the effective date of this Act shall immediately surrender the dog to the Animal Control Officer and pay any costs associated with the handling, impounding, and/or the disposition of the animal, including, but not limited to, the off-Pueblo adoption of or the destruction of the animal.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Any person disputing the classification of the dog as one of the breeds banned by this Section by the Animal Control Officer may file a petition for a hearing before the Court.  The animal shall remain impounded during the pendency of the hearing and notice of decision.  At the hearing, the Owner bears the burden of proving that the dog is not one of the breeds prohibited by this Section.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The provisions of this Sub-section 10.17(B) shall take effect ninety (90) days after the effective date of this Act.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Dangerous Animals.</heading>
+          <text>A dangerous animal includes an animal not naturally tamed or gentle, an animal which is of a wild nature or disposition, or an animal that is capable of killing or inflicting serious injury upon human beings and having known tendencies, individually or as a species, to do so.  A dangerous animal also includes, but is not limited to, pythons, anacondas, boa constrictors, poisonous snakes and spiders, bears, wolves, lions, tigers, panthers, alligators, crocodiles, and piranhas.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Non-Resident Animals.</heading>
+          <text>Tourists and other visitors to the Pueblo are not permitted to bring animals onto Pueblo Lands, unless such persons obtain prior approval from the Animal Control Officer after paying any applicable fee and after presenting a current rabies vaccination for the animal.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-025"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.2.1.180</num>
+        <heading>COMMUNITY POUND; IMPOUNDMENT.</heading>
+        <text>The Governor may establish a community Pound or enter into a cooperative agreement with another jurisdiction or a veterinarian for the establishment of a community Pound.  At such time as a community Pound is established, the following provisions shall apply:</text>
+        <para>
+          <num>(a)</num>
+          <heading>Animals That May be Impounded.</heading>
+          <text>The following animals, licensed or unlicensed, shall be impounded and the Owner cited:</text>
+          <para>
+            <num>(1)</num>
+            <text>Any animal found abused or neglected under Section 10.6;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Any animal required to be vaccinated under Section 10.9 or 10.19 that is not so vaccinated;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Any animal found at large under Section 10.8;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Any animal found abandoned or dumped under Section 10.13;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Any diseased animal not confined in accordance with Section 10.16;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>An animal that bites a person under Section 10.11;</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>An animal that is vicious or a public nuisance under Section 10.10;</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>Any animal that appears to be infected with rabies pursuant to Section 10.19; or</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>Any animal not properly confined during rabies quarantine pursuant to Section 10.19.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Notification.</heading>
+          <text>The Animal Control Officer shall immediately upon impoundment make reasonable efforts to notify the Owner, if known, and shall inform the Owner of the conditions whereby the Owner may regain custody of the animal.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Impound fees.</heading>
+          <text>An impoundment fee shall be charged for each day that an animal is impounded.  An animal will not be released to its Owner until any impound fees have been paid and proof of current license has been provided.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Length of Impoundment.</heading>
+          <text>Unless an Owner gets a written extension from the Animal Control Officer, an animal not claimed within three (3) days may be sold at a public sale, placed up for adoption, or euthanized.  A person who buys or adopts an animal may not take possession of the animal until the fees associated with its sale or adoption are paid and the person obtains a license for the animal.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Care During Impoundment.</heading>
+          <text>All impounded animals shall be given proper care and maintenance.  Any sick or injured animals that are impounded may be euthanized, after reasonable efforts to notify the Owner have been made, to prevent the animal from suffering or to prevent the spread of disease.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-025"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.2.1.190</num>
+        <heading>RABIES AND OTHER DISEASE CONTROL.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Rabies vaccination.</heading>
+          <para>
+            <num>(1)</num>
+            <text>It shall be unlawful for any person to own any animal over the age of four (4) months unless such animal is appropriately vaccinated with a vaccine licensed by the U.S. Department of Agriculture as recommended in the current "Compendium of Animal Rabies Control," prepared by the National Association of State Public Health Veterinarians, Inc.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Owner of an animal shall furnish the current certificate of vaccination upon request by the Animal Control Officer.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Upon being found guilty of three or more violations of this Section related to the same animal, the Court may also order the confiscation and the proper disposition of the animal.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Certificate and collar tag.</heading>
+          <para>
+            <num>(1)</num>
+            <text>A suitable and distinctive collar tag and certificate of rabies vaccination certifying that the animal in question has been vaccinated shall be issued to the Owner at the time of vaccination.  The collar tag shall be securely affixed to the animal's collar, as appropriate, and shall be worn at all times when the animal is not confined within the Owner's or custodian's dwelling unit.  An Owner of a horse may keep a horse's tag in the Owner's residence.  The Owner must present the tag to the Animal Control Officer upon request.  Proof of rabies inoculation or vaccination in the form of a written certificate must be produced when requested.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A certificate of rabies vaccination issued under this Section shall comply with Section 10.9(C)(2) of this Act.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>All veterinarians doing business on Pueblo Lands shall provide a copy of any issued certificate of rabies vaccination to the Animal Control Officer.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Declaration of Rabies Emergency.</heading>
+          <text>When sufficient evidence exists to believe that a rabid or potentially rabid animal is at-large within Pueblo Lands, the Animal Control Officer may undertake any actions necessary to immediately contain and prevent the spread of rabies.  This will require the immediate cooperation of other Pueblo officials to abate the emergency situation.  The Animal Control Office may issue an emergency rule (which shall become effective upon passage) which may require owners and custodians of animals to keep their animals confined upon their premises unless under leash and under the control of the Owner or custodian so as not to subject their animals to contact with the rabid animal.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Duty to Report, Investigate Rabies Exposure.</heading>
+          <text>It shall be the duty of any person who has knowledge of the existence of a rabid or suspected rabid animal or of a person exposed to such animal to immediately report the existence and whereabouts of such animal to the Animal Control Officer.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Notice to Owner; Duty to Respond; Access to Animal.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>Notice to Owner.</heading>
+            <text>The Animal Control Officer shall notify the Owner of the rabid or suspected rabid animal, or of an animal suspected of having itself been exposed to a suspected rabid animal, of the report.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Adequacy of Notice.</heading>
+            <text>Notice to the Owner shall be deemed made if executed in any of the following manners:</text>
+            <para>
+              <num>(A)</num>
+              <text>By direct verbal notice to the Owner or any other resident of the Owner's home or a family member over the age of sixteen (16) years;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>By delivering a written notice to the Owner or to any other resident of the Owner's home or a family member over the age of sixteen (16) years;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>By posting a written notice at the Owner's last known address; or</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>By posting a written notice at the location of the exposure (when no address or telephone number can be obtained).</text>
+              <text>Testimony of the Animal Control Officer as to the manner of service of the notice shall constitute <em>prima facie</em> evidence that service was made.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>If notice is made in writing, the Owner shall immediately and in no event in more than twenty-four (24) hours, contact the Animal Control Officer about the notice.  Each subsequent day's failure to make the required contact with the Animal Control Officer after written notice is made shall be considered a separate offense by the Owner.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The Owner of any animal reported to have exposed a person or other animal to a rabid or suspected rabid animal shall give the Animal Control Officer or Public Health Official prompt access to the animal at any time as may be necessary for verification of quarantine or as may be required to prevent the spread of rabies and thereby safeguard human life.  Upon order by the Animal Control Officer, the Owner shall immediately relinquish such animal to the Officer.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>It shall be unlawful for any person to evade or elude the Animal Control Officer or to dispose of, conceal, harbor, or remove from Pueblo Lands any animal to keep the animal from being quarantined, euthanized, or confined in accordance with this Act.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Quarantine.</heading>
+          <text>Any animal determined by the Animal Control Officer to be a threat to the spread of rabies may be ordered quarantined.</text>
+          <para>
+            <num>(1)</num>
+            <text>Quarantine means restriction of the activities of an animal which has been exposed or is suspected of being exposed to a communicable disease during a period of communicability or incubation to prevent further disease transmission.  Such quarantines shall meet the criteria set forth by the Animal Control Officer in accordance with the current guidelines in the "Compendium of Animal Rabies Control."</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Strict Isolation or absolute quarantine means the restriction of contact between exposed subjects and other animals and/or humans for a period of time not longer than the longest usual incubation of the disease.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Modified quarantine means a selective, partial limitation of freedom of movement and contact between exposed and nonexposed humans and/or animals as deemed appropriate to prevent transmission of the disease.</text>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <heading>Quarantine Under Owner's Control.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Any animal so quarantined shall be kept so as to be available for inspection by the Animal Control Officer and such quarantined animal shall not be removed, released, or euthanized without the express consent of the Animal Control Officer.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>In the event an animal in such quarantine needs to be relocated, the Owner or person undertaking the relocation shall notify the Animal Control Officer prior to the relocation occurring.  Upon order by the Animal Control Officer, the owner shall immediately hand over such animal.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Such animal shall be confined for a period of no less than one (1) day and not to exceed six (6) months.</text>
+          </para>
+        </para>
+        <para>
+          <num>(h)</num>
+          <heading>Quarantine Under Veterinary Control or Impoundment.</heading>
+          <para>
+            <num>(1)</num>
+            <text>If the Animal Control Officer determines that such animal cannot be safely and appropriately confined under the Owner's control, the animal may, at the discretion of the Animal Control Officer, be quarantined by containment at a veterinary facility or by impoundment at the community Pound.</text>
+            <para>
+              <num>(A)</num>
+              <text>If the animal is ordered impounded or to be contained at a veterinary facility, the Owner shall be responsible for all impoundment or containment fees, whether or not the animal is determined to be rabid.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Such animal shall be confined for a period of no less than one (1) day and not to exceed six (6) months.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(i)</num>
+          <heading>Destruction of Rabid Animal.</heading>
+          <text>Any animal quarantined or impounded under the previous provisions may be euthanized prior to the termination of the confinement period upon the order of the Animal Control Officer for laboratory examination for rabies if such animal shows clear clinical signs of rabies or the Owner consents to its destruction.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <heading>Animal Dying During Quarantine.</heading>
+          <text>If an animal dies while being quarantined pursuant to this Section and the animal is known to have exposed another animal or person to rabies at any time during a period of two (2) weeks before the beginning of the quarantine period through the time of death, it shall be the duty of the person with such knowledge to immediately contact the Animal Control Officer who will contact the Public Health Official and obtain instructions for the testing and/or disposal of the body.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <heading>Rabies Clinics.</heading>
+          <text>The Animal Control Officer is hereby authorized to review, from time to time, the need for rabies clinics to encourage residents to comply with provisions of this Act requiring the vaccination of animals against rabies.  The Animal Control Officer shall be responsible for working with the Public Health Official and others to schedule and coordinate such clinics based on the availability of veterinarian services.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-025"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.2.1.200</num>
+        <heading>CITATION; COMMENCEMENT OF ACTION; FINES.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Service.</heading>
+          <text>A citation issued pursuant to this Act must be provided to the person cited and may be served by personally delivering a copy to the person or by any other means authorized by the civil rules of the Pueblo for serving a civil complaint.  The citation shall command the person to appear before the Court at a time and place to be ordered by the Court and to answer the violation alleged.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Number of Incidents.</heading>
+          <text>Once a person has been cited, each day that the person fails to comply with the provisions of this Act will constitute a separate offense.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Proceedings.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>Jurisdiction.</heading>
+            <text>The Pueblo Courts have jurisdiction over civil complaints filed by the Animal Control Officer pursuant to this Act.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Hearing Date Set.</heading>
+            <text>Upon filing of the citation by the Animal Control Officer with the Clerk of the Court, a hearing will be set for the Court's next available hearing date.  If the next hearing date is less than seven (7) days after the filing of the complaint, the hearing will be set for the following hearing date.  A copy of the civil citation may serve as the civil complaint.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Summons to Appear.</heading>
+            <text>The Clerk of the Court must issue a Summons to Appear to the person cited no less than seven (7) days prior to the hearing date.  The Summons to Appear shall state the date, time, and location of the hearing.  The Summons to Appear shall contain a statement that failure to appear will be deemed an admission of guilt to the allegation(s).</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <heading>Hearing.</heading>
+            <para>
+              <num>(A)</num>
+              <text>A person served with a Summons to Appear must appear before the Court at the designated time and place.  The person must enter a plea of (i) admit, (ii) admit with explanation, or (iii) deny.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>If the person admits or admits with explanation, the Court shall enter judgment for the Pueblo and impose a civil fine and the time in which the fine must be paid.  In determining the fine, the Court may consider any explanation submitted by the person cited.</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>If the person fails to appear, the Court shall enter judgment for the Pueblo and shall impose a civil fine and the time in which the fine must be paid.</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>If the person denies the allegation, the Court shall set a trial date.</text>
+            </para>
+          </para>
+          <para>
+            <num>(5)</num>
+            <heading>Trial.</heading>
+            <text>The trial shall be informal and without a jury.  The Animal Control Officer is required to prove that the violation occurred by a preponderance of evidence.  Technical rules of evidence shall not apply.  The failure of the Animal Control Officer to perform the Officer's duties or responsibilities under this Act shall not be cause for the Court to set aside the citation.</text>
+            <para>
+              <num>(A)</num>
+              <text>If the Court finds in favor of the cited person, it shall enter an order dismissing the allegation.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>If the Court finds in favor of the Pueblo, it shall enter judgment for the Pueblo, impose a civil fine on the person, and set the date by which the fine must be paid.</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>The decision of the Court shall be final and shall be appealable to the Supreme Court.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Penalty.</heading>
+          <text>In addition to any other fees assessed under this Act, a person found responsible by the Court shall be subject to the following civil penalties:</text>
+          <para>
+            <num>(1)</num>
+            <text>For a minor violation, a fine no less than twenty-five dollars ($25.00) and not to exceed one-hundred dollars ($100.00).  Minor violations include, but are not limited to, licensing violations, roaming violations, failure to spay or neuter violations, or failing to dispose of a carcass.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>For a medium violation, a fine no less than one-hundred dollars ($100.00) and not to exceed five-hundred dollars ($500.00).  Medium violations include, but are not limited to, vaccination violations, household limitation violations, failure to post a vicious animal sign, harboring a vicious or nuisance animal, or harboring a dangerous animal or an animal not permitted on Pueblo Lands.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>For a major violation, a fine of no less than five-hundred dollars ($500.00) and not to exceed one-thousand dollars ($1,000.00).  Serious violations include, but are not limited to, care and neglect violations, confinement violations, and violations of Section 10.19 Rabies and Other Disease Control.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>In addition to any fine imposed under this sub-Section, the Court may also enter an order removing an animal from the Owner, prohibiting an Owner from owning an animal or any kind of animal, requiring certain conditions for an Owner to have or keep an animal, or any other order that the Court finds, in its discretion, achieves the purposes of this Act.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Community Service in Lieu of Payment of Fine.</heading>
+          <text>If the person is not able to pay any fines ordered for any reason, the Court may order the person to complete one (1) hour of community service at the national minimal wage rate until the monies due would have been paid off.  Such work shall be performed under the supervision of the Animal Control Officer and must consist of activities that pertain to the care, treatment, or control of animals and/or the cleaning, repair, maintenance, or construction of facilities used for animals.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Pay Over of Fines.</heading>
+          <text>All fines must be paid to the Clerk of the Court.  The Clerk of the Court shall hold and pay over to an account designated by the Governor on a monthly basis all the fines collected pursuant to this Act.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <heading>Judgment of Civil Liability for Damages or Injury.</heading>
+          <text>When judgment is entered against a person, the person shall also be liable in any civil action brought for damages or injury.  When the action arises from an attack, the owner shall be civilly liable whether the person attacked was in a public place or lawfully upon private premises and regardless of whether or not the animal was known to be vicious prior to the attack.  Proof that the plaintiff provoked the attack is a defense.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-025"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.2.1.210</num>
+        <heading>LEGISLATIVE HISTORY.</heading>
+        <text>This Animal Control Act was enacted and codified by the Council through Resolution No. SI-R16-025, effective November 5, 2016.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-025"/>
+        </annotations>
+      </section>
+    </container>
+  </container>
+  <container>
+    <reason>Repealed</reason>
+    <prefix>Chapter</prefix>
+    <num>19.3</num>
+    <heading>Personnel Policies</heading>
+    <container>
+      <reason>Repealed</reason>
+      <prefix>Part</prefix>
+      <num>19.3.1</num>
+      <heading>Reaffirmation of the Tribal Personnel Manual</heading>
+      <annotations>
+        <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R12-015, dated March 1, 2012.</annotation>
+      </annotations>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-015"/>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
+        <num>19.3.1.010</num>
+        <heading>Findings</heading>
+        <text>Repealed</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-015"/>
+        </annotations>
+      </section>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
+        <num>19.3.1.020</num>
+        <heading>Personnel Policy Manual</heading>
+        <text>Repealed. <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite> can be found <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">here</cite>.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-015"/>
+        </annotations>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>19.4</num>
+    <heading>Distributions</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>19.4.1</num>
+      <heading>Distributions</heading>
+      <annotations>
+        <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R17-001, dated January 18, 2017.</annotation>
+      </annotations>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-001"/>
+      <section>
+        <num>19.4.1.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council finds that it is in the best interest of the Pueblo to authorize distributions of available funds to all members of the Pueblo from time to time.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council hereby enacts the attached law  entitled the "TRIBAL MEMBER DISTRIBUTION AUTHORIZATION ACT."</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-001"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.4.1.020</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as, the "TRIBAL MEMBER DISTRIBUTION AUTHORIZATION" ("Act").</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-001"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.4.1.030</num>
+        <heading>Purpose</heading>
+        <text>The purpose of the Act is to authorize distributions of money to all members of the Pueblo on an equitable basis when funds for such purposes become available, subject to the appropriation of such funds by the Council.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-001"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.4.1.040</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>From time to time, the Pueblo receives discretionary funds from various sources including proceeds from lawsuits, settlements, leases, rights-of-way, investment proceeds, and other sources;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In the past, the Pueblo has authorized and distributed discretionary funds it has received to all members of the Pueblo;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Council has determined that it is in the best interest of the Pueblo to authorize the distribution of discretionary funds to all members of the Pueblo when such funds become available and no other overriding need exists for the use of such funds.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-001"/>
+        </annotations>
+      </section>
+      <section>
+        <num>19.4.1.050</num>
+        <heading>Distribution Process Requirements</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Governor is hereby authorized to provide a distribution of funds in an equal amount to all members of the Pueblo when funds for such purposes are specifically appropriated by the Council in an approved Annual Budget or Budget Modification.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Governor shall not be authorized to distribute any funds to members of the Pueblo that have not been specifically appropriated by the Council for such purposes.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Governor shall establish and implement fair and equitable procedures to notify members of the Pueblo of the availability of funds for distribution and to distribute such funds.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-001"/>
+        </annotations>
+      </section>
+    </container>
+  </container>
+</container>
