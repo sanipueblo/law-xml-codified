@@ -272,7 +272,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2023, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
-  <codify:insert>
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.17">
     <container>
       <prefix>Part</prefix>
       <num>2.3.17</num>
@@ -287,19 +287,19 @@
     </text>
     <heading type="law">ACT APPROVING THE INSTALLATION OF A CHROMIUM MONITORING WELL AND AUTHORIZING A LIMITED ACCESS AGREEMENT</heading>
     <section>
-      <codify:insert num-value="2.3.17.010"/>
+      <codify:insert num-value="2.3.17.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.17.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as "ACT APPROVING THE INSTALLATION OF A CHROMIUM MONITORING WELL AND AUTHORIZING A LIMITED ACCESS AGREEMENT" ("Act").</text>
     </section>
     <section>
-      <codify:insert num-value="2.3.17.020"/>
+      <codify:insert num-value="2.3.17.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.17.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to approve the installation of a chromium monitoring well in the Pueblo's Sacred Area, approve the proposed location of the monitoring well and to authorize the negotiation of a Limited Access Agreement to access the Pueblo's lands during construction and operation of the monitoring well and to provide terms for use of the Pueblo's resources.</text>
     </section>
     <section>
-      <codify:insert num-value="2.3.17.030"/>
+      <codify:insert num-value="2.3.17.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.17.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -345,7 +345,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="2.3.17.040"/>
+      <codify:insert num-value="2.3.17.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.17.040"/>
       <num>1.4</num>
       <heading>Authorizations</heading>
       <para>
