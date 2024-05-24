@@ -16,11 +16,11 @@
     <history-start>2017-04-19</history-start>
     <build xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="sanipueblo/law-xml" commit="0c6af8cb5d69e551523fd07ea9641665dd2a2666"/>
+        <repository name="sanipueblo/law-xml" commit="d27391ac95b6da168018dcffa39b3e6c0d6131f6"/>
       </repositories>
-      <platform version="2.12.7" reproducible="true"/>
-      <build-date>2023-09-27</build-date>
-      <codified-date>2023-09-08</codified-date>
+      <platform version="2.13.6" reproducible="true"/>
+      <build-date>2024-05-24</build-date>
+      <codified-date>2023-12-15</codified-date>
       <publication>publication/2023-09-27</publication>
     </build>
   </meta>
