@@ -5536,6 +5536,126 @@
         </annotations>
       </section>
     </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>6.6.7</num>
+      <heading>Commitment to Develop and Implement an Asset Management Plan</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-031"/>
+      <annotation app="2017-10-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-031" eff="2017-10-06" path="" type="History"/>
+      <section>
+        <num>6.6.7.010</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe, recognized as such by the United States of America, with the authority to govern its people, lands and other resources.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo provides water and wastewater services to residences in the three housing areas of the Pueblo (Pueblo Center, Northeast and Northwest) and operates and maintains said systems.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo intends to undertake acquisition, construction and improvement of the wastewater system for the benefit of the community and its citizens.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Pueblo recognizes an Asset Management Plan is a dynamic tool and asset management planning is an ongoing effort by service providers to improve system maintenance, identify and prioritize repairs and/or replacement, and meet system users' demands.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Pueblo has authorized the development and implementation of a San Ildefonso Asset Management Team to advise and assist the Pueblo tribal government in the development and recommendations of project proposals for future planning, design, and construction of Infrastructure Project(s).</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Pueblo has initiated asset management planning with Asset Inventories of the community water and wastewater systems, roads, irrigation, gas, electrical, telephone and fiber optic lines.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-031"/>
+          <annotation app="2017-10-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-031" eff="2017-10-06" path="" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.6.7.020</num>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso is fully committed to complete and implement within three years an Asset Management Plan in accordance with the principles of A.M. Kan Work.Association which identify:</text>
+          <para>
+            <num>(1)</num>
+            <text>The current state of the assets.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The desired level of service.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Assets that are critical to sustained performance.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The best life cycle cost.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The long-term funding strategy.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo has identified Terry Aguilar as the Project Manager.  Terry Aguilar and the Pueblo continue to develop an internal team that will be assembled to develop and implement the Asset Management Plan (AMP).  The Sanitation and Facilities Department, Natural Resources Department and Department of Environmental and Cultural Preservation will be involved in the development of the AMP.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>An Asset Management IQ test, per the EFC manual, will be completed within a year, as part of the AMP implementation.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A preliminary schedule for implementation of the Pueblo de San Ildefonso's AMP is identified below.</text>
+          <text>
+            <table>
+              <tr>
+                <th>Year 1 (2018)</th>
+                <th>Year 2 &amp; 3 (2019 &amp; 2020)</th>
+                <th>Year 4 &amp; Thereafter (2021+)</th>
+              </tr>
+              <tr>
+                <td>
+                  <p>Resolution committing to implementation of an AMP that incorporates the core asset management principles:</p>
+                  <p>Current State of Assets</p>
+                  <p>Level of Service</p>
+                  <p>Critical Assets</p>
+                  <p>Life Cycle Costs</p>
+                  <p>Long-Term Funding</p>
+                  <p>Identification of an internal team that will develop and implement the AMP.</p>
+                  <p>Results of the initial Asset Management IQ test.</p>
+                  <p>Proposed schedule for implementation of the AMP.</p>
+                </td>
+                <td>
+                  <p>Results of recent Asset Management IQ test.</p>
+                  <p>Update on progress towards completion of the AMP, including explanation of third-party support and deliverables.</p>
+                  <p>Completed AMP with the following elements:</p>
+                  <p>Required metering of all diversions and users;</p>
+                  <p>Asset inventory, noting current condition, criticality, mapped locations, anticipated useful life, and value;</p>
+                  <p>Defined level of service required to meet state and federal regulations, customer demands, and long-term goals;</p>
+                  <p>Risk analysis;</p>
+                  <p>O&amp;M Plan and CIP Funding Strategy; and</p>
+                  <p>Resolution adopting the AMP.</p>
+                </td>
+                <td>Fully implemented AMP.</td>
+              </tr>
+            </table>
+          </text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-031"/>
+          <annotation app="2017-10-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-031" eff="2017-10-06" path="" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
