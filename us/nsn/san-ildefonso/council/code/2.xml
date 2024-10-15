@@ -362,6 +362,50 @@
         </annotations>
       </section>
     </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>2.2.5</num>
+      <heading>Authorization of Attorney Contract Act of 2018</heading>
+      <annotation app="2018-12-21" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-032" eff="2018-12-21" path="" type="History"/>
+      <section>
+        <num>2.2.5.010</num>
+        <heading>Authorization of Council Attorney Contract Act of 2019</heading>
+        <text>This enactment shall be known as "AUTHORIZATION OF COUNCIL ATTORNEY CONTRACT ACT OF 2019" ("Act").</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-003"/>
+          <annotation app="2018-12-21" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-032" eff="2018-12-21" path="" type="History"/>
+          <annotation app="2018-12-21" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-032" eff="2018-12-21" path="attachments|law|1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>2.2.5.020</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Council has identified the need for legal counsel services to assist with the development of laws for the Pueblo and to provide advice on the operations of the Council; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council has utilized the services of experienced lawyers from the law firm of Robert J. Lyttle, PC, Attorneys at Law ("Attorneys") for at least seven (7) years to provide legal advice and assistance in a cost-effective manner, and the Council wishes to continue these services.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-003"/>
+          <annotation app="2018-12-21" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-032" eff="2018-12-21" path="" type="History"/>
+          <annotation app="2018-12-21" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-032" eff="2018-12-21" path="attachments|law|2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>2.2.5.030</num>
+        <heading>Authorization of Contract</heading>
+        <text>The Council hereby approves the continuation of the Attorneys' legal representation of the Council including the authorization and approval of a sole-source contract with the Attorneys (Exhibit A).</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-003"/>
+          <annotation app="2018-12-21" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-032" eff="2018-12-21" path="" type="History"/>
+          <annotation app="2018-12-21" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-032" eff="2018-12-21" path="attachments|law|3" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
