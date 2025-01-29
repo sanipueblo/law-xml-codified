@@ -1395,6 +1395,79 @@
         </annotations>
       </section>
     </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>2.3.13</num>
+      <heading>Act Authorizing Signature of the Memorandum of Agreement Between the Pueblo de San Ildefonso and the Pueblo of Pojoaque for Law Enforcement Services</heading>
+      <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-005" eff="2020-05-13" path="" type="History"/>
+      <section>
+        <num>2.3.13.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "ACT AUTHORIZING SIGNATURE OF THE MEMORANDUM OF AGREEMENT BETWEEN THE PUEBLO DE SAN ILDEFONSO AND THE PUEBLO OF POJOAQUE FOR LAW ENFORCEMENT SERVICES" ("Act")."</text>
+        <annotations>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-005" eff="2020-05-13" path="" type="History"/>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-005" eff="2020-05-13" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>2.3.13.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to authorize the Governor to sign the document entitled "Memorandum of Agreement Between the Pueblo de San Ildefonso and the Pueblo of Pojoaque For Law Enforcement Services" for additional law enforcement services when Bureau of Indian Affairs-Office of Justice Services ("BIA LES") is unable to quickly respond to service calls or provide routine patrols at the Pueblo de San Ildefonso ("Pueblo").</text>
+        <annotations>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-005" eff="2020-05-13" path="" type="History"/>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-005" eff="2020-05-13" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>2.3.13.030</num>
+        <heading>Findings</heading>
+        <text>The Council hereby declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo does not have a tribal police department and relies on the BIA LES as its primary law enforcement provider; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo often does not have adequate or timely law enforcement response to incidents occurring on the Pueblo because BIA LES also provides law enforcement services for two other Pueblos in northern New Mexico so that a BIA police officer may not be in close proximity to respond quickly to service calls at the Pueblo and BIA LES is often short-staffed; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo is very concerned about availability of police response during times of emergencies or unforeseen events as well as the absence of routine police presence to deter criminal activity within the Pueblo; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Pueblo has a need for additional police services when BIA LES may not be able to timely respond to service calls on the Pueblo; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Pueblo of Pojoaque operates its own tribal police department and is able and willing to provide police services to the Pueblo; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Council has determined that it is the best interests of the Pueblo to authorize signature of the Memorandum of Agreement with the Pueblo of Pojoaque to provide law enforcement services to the Pueblo.</text>
+        </para>
+        <annotations>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-005" eff="2020-05-13" path="" type="History"/>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-005" eff="2020-05-13" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>2.3.13.040</num>
+        <heading>Authorizations</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Governor is hereby authorized to sign a form of the Memorandum of Agreement Between the Pueblo de San Ildefonso and the Pueblo of Pojoaque For Law Enforcement Services attached hereto.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Governor is authorized make any minor technical non-substantive amendments to the Memorandum of Agreement document as may be necessary, provided that the Council is informed of such amendments.</text>
+        </para>
+        <annotations>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-005" eff="2020-05-13" path="" type="History"/>
+          <annotation app="2020-05-13" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-005" eff="2020-05-13" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
