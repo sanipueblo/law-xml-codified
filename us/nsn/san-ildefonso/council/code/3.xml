@@ -381,4 +381,74 @@
       </section>
     </container>
   </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>3.3</num>
+    <heading>Council Contracting</heading>
+    <container>
+      <prefix>Part</prefix>
+      <num>3.3.1</num>
+      <heading>The Council Contracting Authorization Act of 2017</heading>
+      <section>
+        <num>3.3.1.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as "THE COUNCIL CONTRACTING AUTHORIZATION ACT OF 2017 ("Act")."</text>
+        <annotations>
+          <annotation app="2017-09-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-023" eff="2017-09-07" path="" type="History"/>
+          <annotation app="2017-09-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-023" eff="2017-09-07" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>3.3.1.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to authorize the Lieutenant Governor, on behalf of the Council, to enter into contracts, as specifically authorized by the Council, with professional advisors, consultants, and others necessary to fulfill the Council's duties to write laws and prepare budgets for the benefit of the People of the Pueblo, subject to the appropriation of funds for such purposes.</text>
+        <annotations>
+          <annotation app="2017-09-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-023" eff="2017-09-07" path="" type="History"/>
+          <annotation app="2017-09-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-023" eff="2017-09-07" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>3.3.1.030</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Council has identified the need for professional advisors, consultants, and others to assist the Council with its duties to write laws and prepare budgets; and,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Governing Agreement requires that prior to the expenditure of funds on behalf of the Pueblo, the Council must authorize and appropriate funds in an approved budget for such purposes; and,</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Council has identified the need to clarify the authorization and approval process for all services contracts entered into on behalf of the Council.</text>
+        </para>
+        <annotations>
+          <annotation app="2017-09-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-023" eff="2017-09-07" path="" type="History"/>
+          <annotation app="2017-09-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-023" eff="2017-09-07" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>3.3.1.040</num>
+        <heading>Contracting Authorization</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council hereby authorizes the Lt. Governor, on behalf of the Council, to enter into contracts, as specifically authorized by the Council by Legislative Order, with professional advisors, consultants, and others necessary to fulfill the Council's duties to write laws and prepare budgets for the benefit of the People of the Pueblo.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The services provided under any services contract entered into by the Council shall be limited to the exclusive benefit and use of the Council and/or Council Committee.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Any contract entered into on behalf of the Council shall include a provision that such contract may be canceled at any time and for any reason by the Council.</text>
+        </para>
+        <annotations>
+          <annotation app="2017-09-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-023" eff="2017-09-07" path="" type="History"/>
+          <annotation app="2017-09-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-023" eff="2017-09-07" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <annotation app="2017-09-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-023" eff="2017-09-07" path="" type="History"/>
+  </container>
 </container>
