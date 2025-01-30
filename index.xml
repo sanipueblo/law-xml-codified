@@ -19,8 +19,8 @@
         <repository name="sanipueblo/law-xml" commit="d2922f8533302a4ce8f840e17086e7a08f3ca780"/>
       </repositories>
       <platform version="2.15.0" reproducible="true"/>
-      <build-date>2025-01-29</build-date>
-      <codified-date>2020-06-04</codified-date>
+      <build-date>2025-01-30</build-date>
+      <codified-date>2020-06-19</codified-date>
       <publication>publication/2025-01-29</publication>
     </build>
   </meta>
