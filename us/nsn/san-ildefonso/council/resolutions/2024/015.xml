@@ -239,28 +239,28 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2024, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Denise Moquino, Council Secretary</text>
   </procedural-data>
-  <codify:insert path="15">
+  <codify:insert path="15" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3">
     <container>
       <prefix>Chapter</prefix>
       <num>15.3</num>
       <heading>Leases, Mortgages, Foreclosures, and Evictions</heading>
     </container>
   </codify:insert>
-  <codify:insert path="15.3">
+  <codify:insert path="15.3" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.1">
     <container>
       <prefix>Part</prefix>
       <num>15.3.1</num>
       <heading>Leasing and Mortgage Act of 2024 – General Provisions</heading>
     </container>
   </codify:insert>
-  <codify:insert path="15.3">
+  <codify:insert path="15.3" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.2">
     <container>
       <prefix>Part</prefix>
       <num>15.3.2</num>
       <heading>Lease and Mortgage Modernization Act of 2024 – Foreclosure</heading>
     </container>
   </codify:insert>
-  <codify:insert path="15.3">
+  <codify:insert path="15.3" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.3">
     <container>
       <prefix>Part</prefix>
       <num>15.3.3</num>
@@ -391,7 +391,7 @@
         <num>(c)</num>
         <text>Financial Assistance. The Authority shall do any and all things necessary or desirable to secure federal, state, and private financial aid or cooperation in the undertaking, construction, maintenance, or operation of the Authority or Housing.</text>
       </para>
-      <codify:replace path="15.1.8.070" renumber-paras="true">
+      <codify:replace path="15.1.8.070" renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.8.070">
         <section>
           <num>15.1.8.070</num>
           <heading>Powers</heading>
@@ -509,7 +509,7 @@
         <num>15.3.1</num>
         <heading>Leasing and Mortgage Act of 2024 – General Provisions</heading>
         <section>
-          <codify:insert renumber-paras="true"/>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.1.010"/>
           <num>15.3.1.010</num>
           <heading>Definitions</heading>
           <text>As used in this Act, the term:</text>
@@ -662,37 +662,37 @@
           </para>
         </section>
         <section>
-          <codify:insert renumber-paras="true"/>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.1.020"/>
           <num>15.3.1.020</num>
           <heading>Applicability</heading>
           <text>Except as otherwise specifically stated, this Act shall apply to any and all Mortgages, leasehold Mortgages, and agreements to secure an interest in all Residential Units, housing, dwellings, or accommodations for human occupation or residence, or other buildings on Trust or Restricted Land and supersedes and replaces all other codes and ordinances previously adopted by the Pueblo specifically relating to residential Mortgages. In addition, the section on eviction contained herein may be applied against any person or entity occupying Trust or Restricted lands without right.</text>
         </section>
         <section>
-          <codify:insert renumber-paras="true"/>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.1.30"/>
           <num>15.3.1.30</num>
           <heading>Purpose and Interpretation</heading>
           <text>The Trial Court shall interpret and construe this Act to assist Members, and others with the consent of SIHA, in obtaining Mortgage financing for the construction or purchase of residences, Residential Units, or other buildings on certain Trust Land or Restricted Land within the jurisdiction of the Pueblo, by prescribing procedures for recordation, priority, and foreclosure and evictions in connection with Mortgages given to secure loans made by or through any Lenders.</text>
         </section>
         <section>
-          <codify:insert renumber-paras="true"/>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.1.040"/>
           <num>15.3.1.040</num>
           <heading>Jurisdiction</heading>
           <text>The Trial Court shall exercise jurisdiction over all matters arising under this Act and any persons or entities acting pursuant to this Act.</text>
         </section>
         <section>
-          <codify:insert renumber-paras="true"/>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.1.050"/>
           <num>15.3.1.050</num>
           <heading>Conflict with Mortgage Documents</heading>
           <text>If any provision in the Mortgage or other loan documents is determined to conflict with this Act, then this Act shall control.</text>
         </section>
         <section>
-          <codify:insert renumber-paras="true"/>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.1.060"/>
           <num>15.3.1.060</num>
           <heading>Conflict with Other Laws</heading>
           <text>If this Act is determined to be in conflict with any other law of general application adopted by the Pueblo, this Act shall control.</text>
         </section>
         <section>
-          <codify:insert renumber-paras="true"/>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.1.070"/>
           <num>15.3.1.070</num>
           <heading>Mortgage of Leasehold Interests Prohibited Without Lease</heading>
           <para>
@@ -720,19 +720,19 @@
           </para>
         </section>
         <section>
-          <codify:insert renumber-paras="true"/>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.1.080"/>
           <num>15.3.1.080</num>
           <heading>Merger of Estates</heading>
           <text>There shall be no merger of estates by reason of the execution of a Lease or a Mortgage or the assignment or assumption of the same, including an assignment effected by the approval of the Authority or by operation of law, except as such may arise upon satisfaction of the Mortgage.</text>
         </section>
         <section>
-          <codify:insert renumber-paras="true"/>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.1.090"/>
           <num>15.3.1.090</num>
           <heading>Alternative Remedies</heading>
           <text>If the persons or property concerned in an action arising under this Act are subject to the jurisdiction of the courts of the United States, the remedies and procedures enumerated in this Act are in the alternative to the remedies and procedures provided by the United States.</text>
         </section>
         <section>
-          <codify:insert renumber-paras="true"/>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.1.100"/>
           <num>15.3.1.100</num>
           <heading>Recording of Leases and Mortgages</heading>
           <para>
@@ -824,7 +824,7 @@
           </para>
         </section>
         <section>
-          <codify:insert renumber-paras="true"/>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.1.110"/>
           <num>15.3.1.110</num>
           <heading>Priority</heading>
           <text>All Mortgages recorded in accordance with the recording procedures set forth in this Actshall have priority over any lien not perfected at the time of such recording and any subsequent lien or claim except a lien or claim arising from a tribal Leasehold tax assessed after the recording of the Mortgage.</text>
@@ -834,7 +834,7 @@
           </para>
         </section>
         <section>
-          <codify:insert renumber-paras="true"/>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.1.120"/>
           <num>15.3.1.120</num>
           <heading>Assignment</heading>
           <text>Unless otherwise prohibited in the mortgage documents or under applicable law, Borrower may assign any mortgaged property at any time prior to commencement of foreclosure proceedings; provided that:</text>
@@ -852,7 +852,7 @@
           </para>
         </section>
         <section>
-          <codify:insert renumber-paras="true"/>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.1.130"/>
           <num>15.3.1.130</num>
           <heading>Limited Waiver of Sovereign Immunity</heading>
           <para>
@@ -880,7 +880,7 @@
         <num>15.3.2</num>
         <heading>Lease and Mortgage Modernization Act of 2024 – Foreclosure</heading>
         <section>
-          <codify:insert renumber-paras="true"/>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.2.010"/>
           <num>15.3.2.010</num>
           <heading>Notice of Default Required</heading>
           <para>
@@ -893,7 +893,7 @@
           </para>
         </section>
         <section>
-          <codify:insert renumber-paras="true"/>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.2.020"/>
           <num>15.3.2.020</num>
           <heading>Actions Upon Default</heading>
           <para>
@@ -954,13 +954,13 @@
           </para>
         </section>
         <section>
-          <codify:insert renumber-paras="true"/>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.2.030"/>
           <num>15.3.2.030</num>
           <heading>Notice to the Pueblo</heading>
           <text>The Lender shall serve notice, by certified mail with return receipt requested, on the Office of the Governor and the Pueblo de San Ildefonso Realty Office contemporaneously with the notice required in Section 15.3.2.020 (c ) above to be served on the Borrower.</text>
         </section>
         <section>
-          <codify:insert renumber-paras="true"/>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.2.040"/>
           <num>15.3.2.040</num>
           <heading>Cure of Default</heading>
           <para>
@@ -977,7 +977,7 @@
           </para>
         </section>
         <section>
-          <codify:insert renumber-paras="true"/>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.2.050"/>
           <num>15.3.2.050</num>
           <heading>Right of First Refusal</heading>
           <para>
@@ -1006,7 +1006,7 @@
           </para>
         </section>
         <section>
-          <codify:insert renumber-paras="true"/>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.2.060"/>
           <num>15.3.2.060</num>
           <heading>Mortgage Foreclosure Proceedings</heading>
           <text>Upon expiration of the cure period for a default under a Mortgage, as identified in the Mortgage documents or otherwise provided in this Act, if there is a failure to cure, and the Lender has complied with the provisions set forth in this Act, the Lender may commence a Mortgage Foreclosure Proceeding in the Trial Court in the following manner:</text>
@@ -1072,7 +1072,7 @@
           </para>
         </section>
         <section>
-          <codify:insert renumber-paras="true"/>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.2.070"/>
           <num>15.3.2.070</num>
           <heading>Continuances</heading>
           <text>No continuances shall be granted in cases to which the Lender or a Federal Agency are a party, except for good cause shown and:</text>
@@ -1086,7 +1086,7 @@
           </para>
         </section>
         <section>
-          <codify:insert renumber-paras="true"/>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.2.080"/>
           <num>15.3.2.080</num>
           <heading>Power of the Trial Court</heading>
           <para>
@@ -1179,7 +1179,7 @@
           </para>
         </section>
         <section>
-          <codify:insert renumber-paras="true"/>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.2.090"/>
           <num>15.3.2.090</num>
           <heading>Redemption</heading>
           <para>
@@ -1217,13 +1217,13 @@
           </para>
         </section>
         <section>
-          <codify:insert renumber-paras="true"/>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.2.100"/>
           <num>15.3.2.100</num>
           <heading>Intervention</heading>
           <text>The Authority may petition the Trial Court to intervene in any Lease or Leasehold Mortgage Foreclosure Proceeding under this Act. Neither the filing of a motion to intervene by the Authority, nor the grant of such motion by the Trial Court, shall operate as a waiver of the sovereign immunity of the Pueblo or of the Authority, except as expressly authorized by the Pueblo.</text>
         </section>
         <section>
-          <codify:insert renumber-paras="true"/>
+          <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.2.110"/>
           <num>15.3.2.110</num>
           <heading>Subleases</heading>
           <para>
