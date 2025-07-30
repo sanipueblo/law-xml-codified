@@ -240,7 +240,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2023, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
-  <codify:insert>
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.36">
     <container>
       <prefix>Part</prefix>
       <num>6.5.36</num>
@@ -255,19 +255,19 @@
     </text>
     <heading type="law">ACT AUTHORIZING CONTRACTING FOR PORTFOLIO MONITORING SERVICES</heading>
     <section>
-      <codify:insert num-value="6.5.36.010"/>
+      <codify:insert num-value="6.5.36.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.36.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "ACT AUTHORIZING CONTRACTING FOR PORTFOLIO MONITORING SERVICES" ("the Act").</text>
     </section>
     <section>
-      <codify:insert num-value="6.5.36.020"/>
+      <codify:insert num-value="6.5.36.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.36.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to authorize and direct the Governor of the Pueblo to negotiate a contract with a portfolio monitoring company with specialized experience to monitor the Pueblo's trust fund accounts and investigate any potential claims involving investment of the Pueblo's trust accounts.</text>
     </section>
     <section>
-      <codify:insert num-value="6.5.36.030"/>
+      <codify:insert num-value="6.5.36.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.36.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -281,7 +281,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="6.5.36.040"/>
+      <codify:insert num-value="6.5.36.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.36.040"/>
       <num>1.4</num>
       <heading>Authorizations</heading>
       <para>
