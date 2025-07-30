@@ -262,7 +262,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2024, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Denise Moquino, Council Secretary</text>
   </procedural-data>
-  <codify:insert>
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.39">
     <container>
       <prefix>Part</prefix>
       <num>6.5.39</num>
@@ -277,19 +277,19 @@
     </text>
     <heading type="law">THE BIA P.L. 93-638 CONTRACT AUTHORIZATION ACT</heading>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.39.010"/>
       <num codify:value="6.5.39.010">1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "THE BIA P.L. 93-638 CONTRACT AUTHORIZATION ACT" ("Act").</text>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.39.020"/>
       <num codify:value="6.5.39.020">1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act to authorize the Governor to contract with the BIA for programs and services that are beneficial to the Pueblo without the need to return to the Council for a resolution or authorization for the "638" contract, particularly for a renewal of an existing "638" contract.</text>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.39.030"/>
       <num codify:value="6.5.39.030">1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -327,7 +327,7 @@
       </para>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.39.040"/>
       <num codify:value="6.5.39.040">1.4</num>
       <heading>Authorizations</heading>
       <para>
