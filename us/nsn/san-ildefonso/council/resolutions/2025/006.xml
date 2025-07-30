@@ -255,7 +255,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2025, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Raelene Martinez, Council Secretary</text>
   </procedural-data>
-  <codify:insert>
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.19">
     <container>
       <prefix>Part</prefix>
       <num>2.3.19</num>
@@ -269,19 +269,19 @@
     </text>
     <heading type="law">ACT AUTHORIZING A SERVICE LINE AGREEMENT WITH LOS ALAMOS COUNTY</heading>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.19.010"/>
       <num codify:value="2.3.19.010">1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as "Act Authorizing a Service Line Agreement with Los Alamos County" ("Act").</text>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.19.020"/>
       <num codify:value="2.3.19.020">1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to authorize the Governor to negotiate and sign a service line agreement with Los Alamos County ("County") to provide maintenance and repair services on the electric line and facilities owned by the Pueblo that serve the Totavi Store and the surrounding area.</text>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.19.030"/>
       <num codify:value="2.3.19.030">1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -307,7 +307,7 @@
       </para>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.19.040"/>
       <num codify:value="2.3.19.040">1.4</num>
       <heading>Council Authorizations</heading>
       <para>

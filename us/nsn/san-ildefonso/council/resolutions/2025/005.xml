@@ -251,7 +251,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2025, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Raelene Martinez, Council Secretary</text>
   </procedural-data>
-  <codify:replace path="5.1.6.030">
+  <codify:replace path="5.1.6.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|5.1.6.030">
     <section>
       <num>5.1.6.030</num>
       <heading>Voting by Absentee Ballot.</heading>
