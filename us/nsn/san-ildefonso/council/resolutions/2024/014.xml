@@ -314,7 +314,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2024, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Denise Moquino, Council Secretary</text>
   </procedural-data>
-  <codify:insert>
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.18">
     <container>
       <prefix>Part</prefix>
       <num>2.3.18</num>
@@ -329,19 +329,19 @@
     </text>
     <heading type="law">ACT OF 2024 AUTHORIZING THE FORMATION OF THE SANTA FE INDIAN SCHOOL DISTRICT AND GOVERNING COUNCIL AND DELEGATION OF CERTAIN GOVERNMENTAL AUTHORITY OF THE PUEBLO DE SAN ILDEFONSO OVER THE SANTA FE INDIAN SCHOOL TRUST LANDS</heading>
     <section>
-      <codify:insert renumber-paras="true"/>
+      <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.18.010"/>
       <num codify:value="2.3.18.010">1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "ACT OF 2024 AUTHORIZING THE FORMATION OF THE SANTA FE INDIAN SCHOOL DISTRICT AND GOVERNING COUNCIL AND DELEGATION OF CERTAIN GOVERNMENTAL AUTHORITY OF THE PUEBLO DE SAN ILDEFONSO OVER THE SANTA FE INDIAN SCHOOL TRUST LANDS" ("Act")</text>
     </section>
     <section>
-      <codify:insert renumber-paras="true"/>
+      <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.18.020"/>
       <num codify:value="2.3.18.020">1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to authorize the formation of the Santa Fe Indian School District and Governing Council and delegate certain governmental authority of the Pueblo de San Ildefonso to govern and manage the Santa Fe Indian School Trust lands.</text>
     </section>
     <section>
-      <codify:insert renumber-paras="true"/>
+      <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.18.030"/>
       <num codify:value="2.3.18.030">1.3</num>
       <heading>Findings</heading>
       <para>
@@ -434,7 +434,7 @@
       </para>
     </section>
     <section>
-      <codify:insert renumber-paras="true"/>
+      <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.18.040"/>
       <num codify:value="2.3.18.040">1.4</num>
       <heading>Authorizations</heading>
       <para>
@@ -483,7 +483,7 @@
       </para>
     </section>
     <section>
-      <codify:insert renumber-paras="true"/>
+      <codify:insert renumber-paras="true" codified:doc="Pueblo de San Ildefonso Code" codified:path="|2.3.18.050"/>
       <num codify:value="2.3.18.050">1.5</num>
       <heading>Effective Date and Repeal of Prior Act</heading>
       <para>
