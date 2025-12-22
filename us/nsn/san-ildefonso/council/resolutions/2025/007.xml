@@ -265,26 +265,26 @@
       <text>The Council hereby amends the Act as follows:</text>
       <include>
         <container>
-          <codify:replace path="6.5.39|heading">
+          <codify:replace path="6.5.39|heading" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.39">
             <heading>The P.L. 93-638 Contract Authorization Act</heading>
           </codify:replace>
           <prefix>Part</prefix>
           <num>6.5.39</num>
           <heading>The P.L. 93-638 Contract Authorization Act</heading>
           <section>
-            <codify:replace path="|6.5.39.010"/>
+            <codify:replace path="|6.5.39.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.39.010"/>
             <num>6.5.39.010</num>
             <heading>Short Title</heading>
             <text>This enactment shall be known as the "THE P.L. 93-638 CONTRACT AUTHORIZATION ACT" ("Act").</text>
           </section>
           <section>
-            <codify:replace path="|6.5.39.020"/>
+            <codify:replace path="|6.5.39.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.39.020"/>
             <num>6.5.39.020</num>
             <heading>Purpose</heading>
             <text>The purpose of this Act to authorize the Governor to contract with the BIA, the Indian Health Service, and other federal agencies for programs and services that are beneficial to the Pueblo without the need to return to the Council for a resolution or authorization for the "638" contract, particularly for a renewal of an existing 638 Contract.</text>
           </section>
           <section>
-            <codify:replace path="|6.5.39.030"/>
+            <codify:replace path="|6.5.39.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.39.030"/>
             <num>6.5.39.030</num>
             <heading>Findings</heading>
             <text>The Council hereby finds and declares that:</text>
@@ -329,7 +329,7 @@
             </para>
           </section>
           <section>
-            <codify:replace path="|6.5.39.040"/>
+            <codify:replace path="|6.5.39.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.5.39.040"/>
             <num>6.5.39.040</num>
             <heading>Authorizations</heading>
             <para>
