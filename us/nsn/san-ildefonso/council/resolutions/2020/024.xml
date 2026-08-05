@@ -249,7 +249,7 @@
       <num>1.4</num>
       <heading>Amendment</heading>
       <text>The Council hereby extends the Grant Application and Authorization Act of 2018 to be effective for the fiscal year 2020 through the end of the fiscal year 2024.</text>
-      <codify:find-replace count="1" codify:doc="Pueblo de San Ildefonso Code" codified:path="6.5.20.050">
+      <codify:find-replace count="1" codify:doc="Pueblo de San Ildefonso Code" codified:path="" codified:doc="Pueblo de San Ildefonso Code">
         <find>for the Fiscal Years 2018-2019 and 2019-2020;</find>
         <replace>through the end of the Fiscal Year 2024;</replace>
       </codify:find-replace>
