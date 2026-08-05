@@ -275,7 +275,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2026, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Denise Moquino Martinez, Council Secretary</text>
   </procedural-data>
-  <codify:insert path="|17.2">
+  <codify:insert path="|17.2" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.34">
     <container>
       <prefix>Part</prefix>
       <num>17.2.34</num>
@@ -289,19 +289,19 @@
     </text>
     <heading type="law">ACT SUPPORTING SAN ILDEFONSO SERVICES APPLICATION TO NEW MEXICO FINANCE AUTHORITY LOCAL SOLAR ACCESS FUND FOR TRIBAL FACILITY SOLAR PROJECT FUNDING</heading>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.34.010"/>
       <num codify:value="17.2.34.010">1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "ACT SUPPORTING SAN ILDEFONSO SERVICES' APPLICATION TO NEW MEXICO FINANCE AUTHORITY LOCAL SOLAR ACCESS FUND FOR TRIBAL FACILITY SOLAR PROJECT FUNDING" ("Act").</text>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.34.020"/>
       <num codify:value="17.2.34.020">1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to support San Ildefonso Services' application to New Mexico Finance Authority Local Solar Access Fund for Tribal Facility Solar Project Funding ("NMFA Grant") and, if awarded, for SIS to manage the project using the NMFA Grant funds, and reimburse the Pueblo for Administrative expenses associated with managing the funds.</text>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.34.030"/>
       <num codify:value="17.2.34.030">1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -343,7 +343,7 @@
       </para>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.34.040"/>
       <num codify:value="17.2.34.040">1.4</num>
       <heading>Authorization</heading>
       <text>The Council hereby authorizes and directs the Governor, or his designee to take such actions as deemed necessary to carry out the intent of this Act in support of SIS' submission of the NMFA Grant application for the Pueblo facility solar Project in accordance with the SIS presentation of the Project, and to submit any additional documents, including statements and certification for and in behalf of the Pueblo necessary to fulfill any funding requirements or to fulfill the purposes of this Act.</text>
