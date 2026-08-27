@@ -315,7 +315,7 @@
       <num>1.4</num>
       <heading>Authorization of Amendment</heading>
       <text>The Council hereby amends Section 17.2.21.040 of the Member's Representatives Compensation Act of 2019 to authorize an increase in the rate of compensation for each SIS Member's Representative from two hundred and fifty dollars ($250.00) per month to seven hundred and fifty dollars ($750.00) per month and to include it in SIS' annual budget.</text>
-      <codify:replace path="17.2.21.040">
+      <codify:replace path="17.2.21.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.21.040">
         <section>
           <num>17.2.21.040</num>
           <heading>Establishment of the Rate of Compensation</heading>
