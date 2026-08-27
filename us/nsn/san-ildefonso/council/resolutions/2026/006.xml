@@ -231,7 +231,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on , 2026, at a meeting with a vote of in favor, opposed, abstaining and absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Denise Moquino, Council Secretary</text>
   </procedural-data>
-  <codify:insert path="|11.2">
+  <codify:insert path="|11.2" codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.29">
     <container>
       <prefix>Part</prefix>
       <num>11.2.29</num>
@@ -243,13 +243,13 @@
     <text class="center">PUEBLO DE SAN ILDEFONSO</text>
     <heading type="law">PUEBLO DE SAN ILDEFONSO GROUNDWATER QUALITY ACT</heading>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.29.010"/>
       <num codify:value="11.2.29.010">1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "Pueblo de San Ildefonso Groundwater Quality Act" ("Act").</text>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.29.020"/>
       <num codify:value="11.2.29.020">1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this resolution is to:</text>
@@ -275,7 +275,7 @@
       </para>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.29.030"/>
       <num codify:value="11.2.29.030">1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -293,7 +293,7 @@
       </para>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.29.040"/>
       <num codify:value="11.2.29.040">1.4</num>
       <heading>Definitions</heading>
       <text>The following terms shall have the following meanings when used in this Act:</text>
@@ -371,19 +371,19 @@
       </para>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.29.050"/>
       <num codify:value="11.2.29.050">1.5</num>
       <heading>Department of Environmental and Cultural Preservation</heading>
       <text>Pursuant its authority under Part 23.1.1 of the Pueblo de San Ildefonso Code, the Department of Environmental and Cultural Preservation shall serve under the direction of the Governor as the lead Department in the implementation of this Act, and the Director shall be the lead Pueblo official in the implementation of this Act. The Department shall work in cooperation with the New Mexico Environment Department, U.S. Environmental Protection Agency and other federal, tribal, or state agencies when necessary to implement this Act.</text>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.29.060"/>
       <num codify:value="11.2.29.060">1.6</num>
       <heading>Severability</heading>
       <text>If any provision of this Act or the application thereof to any person or circumstance is held invalid, the remainder of these regulations and the application of such provision to other persons or circumstances shall remain unaffected, and to this end the provisions of these regulations are declared to be severable.</text>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.29.070"/>
       <num codify:value="11.2.29.070">1.7</num>
       <heading>Antidegradation Policy and Implementation Plan</heading>
       <para>
@@ -436,7 +436,7 @@
       </para>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.29.080"/>
       <num codify:value="11.2.29.080">1.8</num>
       <heading>Groundwater Quality Standards</heading>
       <para>
@@ -667,13 +667,13 @@
       </para>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.29.090"/>
       <num codify:value="11.2.29.090">1.9</num>
       <heading>Prohibition on Degradation of Pueblo Groundwater</heading>
       <text>No person shall contaminate, threaten to contaminate, or trespass in any manner upon the Pueblo's groundwater. All groundwater uses shall be protected; that is, the level of water quality necessary to maintain those uses is maintained, and any such degradation is prohibited.</text>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.29.100"/>
       <num codify:value="11.2.29.100">2.0</num>
       <heading>Use of Pueblo Groundwater</heading>
       <para>
@@ -690,13 +690,13 @@
       </para>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.29.110"/>
       <num codify:value="11.2.29.110">2.1</num>
       <heading>Unlawful Acts</heading>
       <text>It shall be unlawful to contaminate, threaten to contaminate, or otherwise trespass upon Pueblo groundwater or cause a violation of the Act. Each day that a person violates the Act shall constitute a separate violation. Each violation with respect to (1) each separate point source or nonpoint source (2) each separate parameter or standard violated and (3) each separate discharge of contaminants to the groundwater shall constitute a separate violation.</text>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.29.120"/>
       <num codify:value="11.2.29.120">2.2</num>
       <heading>Public Nuisance</heading>
       <para>
@@ -733,7 +733,7 @@
       </para>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.29.130"/>
       <num codify:value="11.2.29.130">2.3</num>
       <heading>Civil Penalties</heading>
       <para>
@@ -747,7 +747,7 @@
       </para>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.29.140"/>
       <num codify:value="11.2.29.140">2.4</num>
       <heading>Damages and Cost Recovery</heading>
       <para>
@@ -780,7 +780,7 @@
       </para>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.29.150"/>
       <num codify:value="11.2.29.150">2.5</num>
       <heading>Information and Investigation</heading>
       <para>
@@ -833,7 +833,7 @@
       </para>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.29.160"/>
       <num codify:value="11.2.29.160">2.6</num>
       <heading>Enforcement</heading>
       <para>
@@ -862,7 +862,7 @@
       </para>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.29.170"/>
       <num codify:value="11.2.29.170">2.7</num>
       <heading>Notice of Trespass to Pueblo Groundwater and Order to Comply</heading>
       <para>
@@ -919,7 +919,7 @@
       </para>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.29.180"/>
       <num codify:value="11.2.29.180">2.8</num>
       <heading>Notice of Assessment of Penalty, Damages and Costs</heading>
       <para>
@@ -968,7 +968,7 @@
       </para>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.29.190"/>
       <num codify:value="11.2.29.190">2.9</num>
       <heading>Payment of Penalties, Damages, Fees, and Costs</heading>
       <para>
@@ -1005,13 +1005,13 @@
       </para>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.29.200"/>
       <num codify:value="11.2.29.200">3.0</num>
       <heading>Notice to Council and Governor</heading>
       <text>The Director shall deliver a copy of the Notice of Trespass to Pueblo Groundwater and Order to Comply and the Notice of Assessment of Penalty, Damages and Costs to the Council and the Governor.</text>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.29.210"/>
       <num codify:value="11.2.29.210">3.1</num>
       <heading>Administrative Record</heading>
       <para>
@@ -1032,7 +1032,7 @@
       </para>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.29.220"/>
       <num codify:value="11.2.29.220">3.2</num>
       <heading>Appeals</heading>
       <para>
@@ -1065,7 +1065,7 @@
       </para>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.29.230"/>
       <num codify:value="11.2.29.230">3.3</num>
       <heading>Stay Upon Appeal</heading>
       <para>
@@ -1083,7 +1083,7 @@
       </para>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.29.240"/>
       <num codify:value="11.2.29.240">3.4</num>
       <heading>Hearing and Decision</heading>
       <para>
@@ -1108,7 +1108,7 @@
       </para>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|11.2.29.250"/>
       <num codify:value="11.2.29.250">3.5</num>
       <heading>Judicial Review and Enforcement</heading>
       <para>
