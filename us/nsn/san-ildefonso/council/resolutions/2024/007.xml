@@ -284,7 +284,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2024, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Denise Moquino, Council Secretary</text>
   </procedural-data>
-  <codify:insert>
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.32">
     <container>
       <prefix>Part</prefix>
       <num>17.2.32</num>
@@ -299,19 +299,19 @@
     </text>
     <heading type="law">ACT SUPPORTING SAN ILDEFONSO SERVICES APPLICATION TO GRID ALTERNATIVES' TRIBAL SOLAR ACCELERATOR FUND FOR TRIBAL FACILTY SOLAR PROJECT FUNDING</heading>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.32.010"/>
       <num codify:value="17.2.32.010">1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "ACT SUPPORTING SAN ILDEFONSO SERVICES APPLICATION TO GRID ALTERNATIVES' TRIBAL SOLAR ACCELERATOR FUND FOR TRIBAL FACILTY SOLAR PROJECT FUNDING" ("Act").</text>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.32.020"/>
       <num codify:value="17.2.32.020">1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this resolution is to authorize San Ildefonso Services to submit an application and, if successful, manage the project through funding obtained from Grid Alternatives from their Tribal Facility Solar Project Funding Grant, utilizing DOE 2023 Resiliency Grant fund and the New Mexico Indian Affairs Department funding as the matching funds required for the grant…</text>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.32.030"/>
       <num codify:value="17.2.32.030">1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -357,7 +357,7 @@
       </para>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.32.040"/>
       <num codify:value="17.2.32.040">1.4</num>
       <heading>Authorization</heading>
       <text>The Council hereby authorizes and directs the Governor, or his tribal organization designee, San Ildefonso Services LLC, to take such actions as deemed necessary to carry out the intent of this resolution which is to apply for the funds and execute the project and to submit any additional documents, including statements and certification for and in behalf of the Pueblo necessary to fill any funding requirements or to fulfill the purposes of this act.</text>
