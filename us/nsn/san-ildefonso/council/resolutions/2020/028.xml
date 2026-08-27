@@ -1,0 +1,270 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" id="Pueblo de San Ildefonso Council Res. No. SI-R20-028">
+  <num>SI-R20-028</num>
+  <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R20-028</heading>
+  <heading type="law">Grievance Policy Revision Act</heading>
+  <meta>
+    <effective>2020-12-30</effective>
+    <citations>
+      <citation type="res">Council Resolution No. SI-R20-028</citation>
+    </citations>
+    <history>
+      <adopted>2020-12-29</adopted>
+    </history>
+  </meta>
+  <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 29th day of December, 2020, the following resolution was adopted:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo de San Ildefonso has a law and order code; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Pueblo has a Personnel Policy in the code; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Personnel Policy has a Grievance Policy called Section 705 Grievances and Appeals; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council and Administration had started to revise and update the Personnel Policy and found that the Grievance Policy needs to be revised; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council and the Administration have worked to modify and update the Grievance Policy.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby approves this act to change Section 705 Grievances and Appeals to read as the attached Section 705 Grievances and Appeals.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on December 29, 2020, at a meeting with a vote of 7 in favor, 0 opposed, 1 abstaining and 2 absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>William S. Christian, Council Secretary</text>
+    <text>COUNCIL REPRESENTATIVE SPONSOR(S): Council Representatives</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William Stuart Christian</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Terrence K. Garcia</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td>X</td>
+        </tr>
+        <tr>
+          <td>M. Wayne Martinez, Jr.</td>
+          <td/>
+          <td/>
+          <td/>
+          <td>X</td>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Christopher Moquino</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td/>
+          <td/>
+          <td>X</td>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</text>
+    <text>Resolution No. SI-R20-028 was presented to the Governor of the Pueblo de San Ildefonso on the 29th  day of December, 2020, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>William S. Christian, Council Secretary</text>
+    <subheading>GOVERNOR'S ACTION:</subheading>
+    <text>{ X } APPROVED</text>
+    <text>{   } VETO - RETURNED TO COUNCIL WITH EXPLANATION:</text>
+    <text>On this 30th day of December, 2020.</text>
+    <text>Perry Martinez, Governor</text>
+    <text>Presented by the Governor to the Council on the _______ day of ________________, 2020.</text>
+    <subheading>COUNCIL'S ACTION:</subheading>
+    <text>Override of Governor's veto:</text>
+    <text>{   } YES</text>
+    <text>{   } NO</text>
+    <text>
+      <table>
+        <tr>
+          <th>COUNCIL REPRESENTATIVE</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+        <tr>
+          <td>William Stuart Christian</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Terrence K. Garcia</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thelma Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Thomas Gonzales</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>M. Wayne Martinez, Jr.</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Raymond J. Martinez</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Christopher Moquino</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>James L. Naranjo</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Leon T. Roybal</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+        <tr>
+          <td>Irene Tse-Pe</td>
+          <td/>
+          <td/>
+          <td/>
+          <td/>
+        </tr>
+      </table>
+    </text>
+    <text>CERTIFICATION</text>
+    <text>The foregoing resolution was duly voted upon by the Council on _________________, 2020, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
+    <text>William S. Christian, Council Secretary</text>
+  </procedural-data>
+  <attachment id="law">
+    <text>PUEBLO DE SAN ILDEFONSO</text>
+    <heading>GRIEVANCE POLICY REVISION ACT</heading>
+    <section>
+      <num>1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as "GRIEVANCE POLICY REVISON ACT (Act)".</text>
+    </section>
+    <section>
+      <num>1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this act is to modify and update Section 705 Grievances and Appeals of the Personnel Policy as contained in the Law and Order Code.</text>
+    </section>
+    <section>
+      <num>1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds that:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Pueblo de San Ildefonso has a law and order code; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Pueblo has a Personnel Policy in the code; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Personnel Policy has a Grievance Policy called Section 705 Grievances and Appeals; and</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Council and Administration had started to revise and update the Personnel Policy and  found that the Grievance Policy needs to be revised; and</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Council and the Administration has worked to modify and update the Grievance Policy.</text>
+      </para>
+    </section>
+    <section>
+      <num>1.4</num>
+      <heading>Authorizations</heading>
+      <text>The Council hereby passes this Act to change Section 705 Grievances and Appeals to read as the attached Section 705 Grievances and Appeals.</text>
+    </section>
+  </attachment>
+</document>
