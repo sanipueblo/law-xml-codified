@@ -259,7 +259,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2024, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Denise Moquino, Council Secretary</text>
   </procedural-data>
-  <codify:insert>
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.11">
     <container>
       <prefix>Part</prefix>
       <num>24.2.11</num>
@@ -274,19 +274,19 @@
     </text>
     <heading type="law">PNM NORTON HERNANDEZ 115 KV TRANSMISSION EASEMENT AGREEMENT AUTHORIZATION ACT</heading>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.11.010"/>
       <num codify:value="24.2.11.010">1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "PNM NORTON HERNANDEZ 115 KV TRANSMISSION EASEMENT AGREEMENT AUTHORIZATION ACT."</text>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.11.020"/>
       <num codify:value="24.2.11.020">1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to authorize the Governor to negotiate and sign an Easement Agreement between the Pueblo de San Ildefonso and the Public Service Company of New Mexico ("PNM") for a right-of-way over the Pueblo's lands along with an agreement with PNM to provide the Pueblo with access to four (4) strands of dark fiber from the ninety-six (96) fiber optic strands installed on the Norton Hernandez electric transmission line for the Pueblo's use.</text>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.11.030"/>
       <num codify:value="24.2.11.030">1.3</num>
       <heading>Definitions</heading>
       <para>
@@ -307,7 +307,7 @@
       </para>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.11.040"/>
       <num codify:value="24.2.11.040">1.4</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -345,7 +345,7 @@
       </para>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.2.11.050"/>
       <num codify:value="24.2.11.050">1.5</num>
       <heading>Authorizations and Waivers</heading>
       <para>
