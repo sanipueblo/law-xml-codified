@@ -253,7 +253,7 @@
         <heading>Judicial Act of 2012</heading>
         <prefix>Part</prefix>
         <section>
-          <codify:replace path="4.4.1.010"/>
+          <codify:replace path="4.4.1.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.4.1.010"/>
           <num>4.4.1.010</num>
           <heading>Findings</heading>
           <para>
@@ -266,7 +266,7 @@
           </para>
         </section>
         <section>
-          <codify:replace path="4.4.1.020"/>
+          <codify:replace path="4.4.1.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.4.1.020"/>
           <num>4.4.1.020</num>
           <heading>Preamble</heading>
           <para>
@@ -285,7 +285,7 @@
           <text codify:value="">(May 10, 2012, SI-R12-016)</text>
         </section>
         <section>
-          <codify:replace path="4.4.1.030"/>
+          <codify:replace path="4.4.1.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.4.1.030"/>
           <num>4.4.1.030</num>
           <heading>Title and Purpose</heading>
           <para>
@@ -299,7 +299,7 @@
           <text codify:value="">(May 10, 2012, SI-R12-016)</text>
         </section>
         <section>
-          <codify:replace path="4.4.1.040"/>
+          <codify:replace path="4.4.1.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.4.1.040"/>
           <num>4.4.1.040</num>
           <heading>The Judiciary</heading>
           <para>
@@ -309,7 +309,7 @@
           <text codify:value="">(May 10, 2012, SI-R12-016)</text>
         </section>
         <section>
-          <codify:replace path="4.4.1.050"/>
+          <codify:replace path="4.4.1.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.4.1.050"/>
           <num>4.4.1.050</num>
           <heading>Jurisidiction</heading>
           <para>
@@ -339,7 +339,7 @@
           <text codify:value="">(May 10, 2012, SI-R12-016)</text>
         </section>
         <section>
-          <codify:replace path="4.4.1.060"/>
+          <codify:replace path="4.4.1.060" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.4.1.060"/>
           <num>4.4.1.060</num>
           <heading>Power of the Courts</heading>
           <para>
@@ -405,7 +405,7 @@
           <text codify:value="">(May 10, 2012, SI-R12-016)</text>
         </section>
         <section>
-          <codify:replace path="4.4.1.070"/>
+          <codify:replace path="4.4.1.070" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.4.1.070"/>
           <num>4.4.1.070</num>
           <heading>Duties of the Court</heading>
           <para>
@@ -431,7 +431,7 @@
           <text codify:value="">(May 10, 2012, SI-R12-016)</text>
         </section>
         <section>
-          <codify:replace path="4.4.1.080"/>
+          <codify:replace path="4.4.1.080" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.4.1.080"/>
           <num>4.4.1.080</num>
           <heading>Fiscal Procedures</heading>
           <para>
@@ -461,7 +461,7 @@
           <text codify:value="">(May 10, 2012, SI-R12-016)</text>
         </section>
         <section>
-          <codify:replace path="4.4.1.100"/>
+          <codify:replace path="4.4.1.100" codified:doc="Pueblo de San Ildefonso Code" codified:path="|4.4.1.100"/>
           <num>4.4.1.100</num>
           <heading>Severability</heading>
           <para>
