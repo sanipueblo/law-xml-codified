@@ -278,7 +278,7 @@
         <text><strong>Section 15.3.1.070 Mortgage of Leasehold Interests Prohibited Without Lease </strong>is hereby amended to read:</text>
         <include>
           <section>
-            <codify:replace doc="Pueblo de San Ildefonso Code" path="15.3.1.070"/>
+            <codify:replace doc="Pueblo de San Ildefonso Code" path="15.3.1.070" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.3.1.070"/>
             <num>15.3.1.070</num>
             <heading>Mortgage of Leasehold Interests Prohibited Without Lease</heading>
             <para>
