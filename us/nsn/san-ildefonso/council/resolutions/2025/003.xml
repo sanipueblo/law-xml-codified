@@ -271,14 +271,14 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2025, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Raelene Martinez, Council Secretary</text>
   </procedural-data>
-  <codify:insert path="24">
+  <codify:insert path="24" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.12">
     <container>
       <prefix>Chapter</prefix>
       <num>24.12</num>
       <heading>Land Designations</heading>
     </container>
   </codify:insert>
-  <codify:insert path="24.12">
+  <codify:insert path="24.12" codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.12.1">
     <container>
       <prefix>Part</prefix>
       <num>24.12.1</num>
@@ -292,19 +292,19 @@
     </text>
     <heading type="law">CEMETERY DESIGNATION ACT OF 2025</heading>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.12.1.010"/>
       <num codify:value="24.12.1.010">1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "CEMETERY DESIGNATION ACT OF 2025" ("Act").</text>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.12.1.020"/>
       <num codify:value="24.12.1.020">1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this resolution is to designate a location for a new cemetery for the Pueblo and to authorize the Governor to oversee and regulate the use of the new cemetery .</text>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.12.1.030"/>
       <num codify:value="24.12.1.030">1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -354,7 +354,7 @@
       </para>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.12.1.040"/>
       <num codify:value="24.12.1.040">1.4</num>
       <heading>Location of the New Cemetery</heading>
       <para>
@@ -371,19 +371,19 @@
       </para>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.12.1.050"/>
       <num codify:value="24.12.1.050">1.5</num>
       <heading>Non-denominational Burials</heading>
       <text>The new cemetery location shall be open for use by all Members of the Pueblo and their families regardless of their religious beliefs or religious denomination.</text>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.12.1.060"/>
       <num codify:value="24.12.1.060">1.6</num>
       <heading>Regulation of the Cemetery</heading>
       <text>The Governor, or his designee, shall promulgate written regulations governing the use of the new cemetery in an orderly and respectful manner, which shall include an orderly and fair designation process of burial sites based on an established grid of available sites. The regulations shall address the designated official(s) who shall be vested with the authority to oversee and approve burials in accordance with the culture, beliefs, and values of the Pueblo.</text>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|24.12.1.070"/>
       <num codify:value="24.12.1.070">1.7</num>
       <heading>Authorization of Funding</heading>
       <text>The Council hereby authorizes up to $50,000 for initial planning and preparation of the Coral Area site as the location of the new cemetery for the Pueblo, subject to an appropriation of funds in an Annual Budget or Budget Modification for such purposes.</text>
