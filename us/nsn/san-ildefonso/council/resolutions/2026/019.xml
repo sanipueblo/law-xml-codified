@@ -239,7 +239,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2026, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Denise Moquino, Council Secretary</text>
   </procedural-data>
-  <codify:insert path="6.2">
+  <codify:insert path="6.2" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.2.5">
     <container>
       <prefix>Part</prefix>
       <num>6.2.5</num>
@@ -253,19 +253,19 @@
     </text>
     <heading type="law">ACT AUTHORIZING PERSONS ENTITLED TO CONDUCT BUSINESS REGARDING PUEBLO FUNDS MANAGED BY THE BUREAU OF TRUST FUNDS ADMINISTRATION</heading>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.2.5.010"/>
       <num codify:value="6.2.5.010">1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "ACT AUTHORIZING PERSONS ENTITLED TO CONDUCT BUSINESS REGARDING PUEBLO FUNDS MANAGED BY THE BUREAU OF TRUST FUNDS ADMINISTRATION" ("Act").</text>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.2.5.020"/>
       <num codify:value="6.2.5.020">1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to identify and authorize the persons who represent the Pueblo de San Ildefonso and will be entitled to receive information and conduct business regarding the Pueblo's funds ("Funds") that are managed by the Bureau of Trust Funds Administration ("BTFA").</text>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.2.5.030"/>
       <num codify:value="6.2.5.030">1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -283,7 +283,7 @@
       </para>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.2.5.040"/>
       <num codify:value="6.2.5.040">1.4</num>
       <heading>Authorizations</heading>
       <para>
