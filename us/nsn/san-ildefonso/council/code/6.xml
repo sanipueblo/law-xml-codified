@@ -11558,6 +11558,83 @@
         </annotations>
       </section>
     </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>6.5.43</num>
+      <heading>Act to Request New Mexico Department of Transportation Local Government Road Fund Financial Hardship Match Waiver</heading>
+      <annotation app="2026-09-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-017" eff="2026-09-28" path="" target-path="6.5" type="History"/>
+      <section>
+        <num>6.5.43.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "ACT TO REQUEST NEW MEXICO DEPARTMENT OF TRANSPORTATION LOCAL GOVERNMENT ROAD FUND FINANCIAL HARDSHIP MATCH WAIVER " ("Act").</text>
+        <annotations>
+          <annotation app="2026-09-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-017" eff="2026-09-28" path="" target-path="6.5" type="History"/>
+          <annotation app="2026-09-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-017" eff="2026-09-28" path="attachments|law|1.1" target-path="6.5.43" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.5.43.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to request a waiver of all or part of the Pueblo's matching funds for the NM-30 &amp; Battleship intersection improvement project with the New Mexico Department of Transportation due to financial hardship.</text>
+        <annotations>
+          <annotation app="2026-09-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-017" eff="2026-09-28" path="" target-path="6.5" type="History"/>
+          <annotation app="2026-09-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-017" eff="2026-09-28" path="attachments|law|1.2" target-path="6.5.43" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.5.43.030</num>
+        <heading>Findings</heading>
+        <text>The Council hereby finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>the Pueblo de San Ildefonso ("Pueblo") and the New Mexico Department of Transportation ("NMDOT") have entered into a joint and coordinated effort to improve pedestrian and traffic safety on NM 30 at the intersection of Battleship View Road within the Pueblo's lands; and,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>NMDOT has proposed a Transportation Project Fund Agreement ("Grant Agreement") for improvements at the above identified intersection and has estimated the total cost of the project will be $1,187,342.24 to be funded in proportional share between the Pueblo and NMDOT; and,</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>NMDOT's share would be 95% of the total cost or $1,127,975.13; and,</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>the Pueblo's proportional matching share would be 5% of the total cost or $59,367.11; and,</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>per the proposed Grant Agreement terms, the Pueblo shall pay all costs which exceed the total amount of $1,187,342.24; and,</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>NMAC 27.3.8 allows Public Entities who are experiencing financial hardship to request a waiver of all or part of the Public Entity's matching share.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>the Pueblo requests a waiver of the 5% matching funds in the amount of $59,367.11 for the Local Government Road Fund Project for the NN-30 and Battleship View Road intersection improvements.</text>
+        </para>
+        <annotations>
+          <annotation app="2026-09-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-017" eff="2026-09-28" path="" target-path="6.5" type="History"/>
+          <annotation app="2026-09-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-017" eff="2026-09-28" path="attachments|law|1.3" target-path="6.5.43" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.5.43.040</num>
+        <heading>Authorizations</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council authorizes the Governor or his designee to take all actions necessary to request a waiver of the 5% project matching costs.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Governor, or his designee, is authorized to take all actions as necessary to carry out the intent of this Act.</text>
+        </para>
+        <annotations>
+          <annotation app="2026-09-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-017" eff="2026-09-28" path="" target-path="6.5" type="History"/>
+          <annotation app="2026-09-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R26-017" eff="2026-09-28" path="attachments|law|1.4" target-path="6.5.43" type="History"/>
+        </annotations>
+      </section>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
