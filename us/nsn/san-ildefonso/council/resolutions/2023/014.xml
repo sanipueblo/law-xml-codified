@@ -291,7 +291,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2023, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
-  <codify:insert>
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.13">
     <container>
       <prefix>Part</prefix>
       <num>15.1.13</num>
@@ -306,19 +306,19 @@
     </text>
     <heading type="law">AUTHORIZING THE SAN ILDEFONSO HOUSING AUTHORITY TO APPLY FOR A 2023 INDIAN COMMUNITY DEVELOPMENT BLOCK GRANT ON BEHALF OF THE PUEBLO, EVIDENCE OF CITIZEN PARTICIPATION AND COMMITMENT OF TRIBAL FUNDS FOR THE PROJECT</heading>
     <section>
-      <codify:insert num-value="15.1.13.010"/>
+      <codify:insert num-value="15.1.13.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.13.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "AUTHORIZATION FOR THE SAN ILDEFONSO HOUSING AUTHORITY TO APPLY FOR A 2023 INDIAN COMMUNITY DEVELOPMENT BLOCK GRANT ON BEHALF OF THE PUEBLO" ("Act").</text>
     </section>
     <section>
-      <codify:insert num-value="15.1.13.020"/>
+      <codify:insert num-value="15.1.13.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.13.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this resolution is to authorize the San Ildefonso Housing Authority to apply for an Indian Community Development Block Grant for eligible families to be able to remain living on the reservation and to ensure the health, safety and well-being of San Ildefonso Tribal members is critical to the viability of the Pueblo community.</text>
     </section>
     <section>
-      <codify:insert num-value="15.1.13.030"/>
+      <codify:insert num-value="15.1.13.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.13.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The San Ildefonso Council hereby finds that,</text>
@@ -360,7 +360,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="15.1.13.040"/>
+      <codify:insert num-value="15.1.13.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.13.040"/>
       <num>1.4</num>
       <heading>Authorizations</heading>
       <text>The Pueblo de San Ildefonso hereby,</text>
