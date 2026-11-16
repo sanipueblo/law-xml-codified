@@ -271,7 +271,7 @@
         <num>(b)</num>
         <text>The Council hereby authorizes the Governor and SIHA to negotiate and execute a master lease for BIA approval that allows SIHA to approve subleases with housing program participants without the need to seek additional authorization or approval from the Council or the BIA, and specifically to eliminate the requirement for the Secretary of the Interior to approve subleases approved by SIHA with housing program participants.</text>
       </para>
-      <codify:replace path="15.1.17.040">
+      <codify:replace path="15.1.17.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.17.040">
         <section>
           <num>15.1.17.040</num>
           <heading>Authorization</heading>
