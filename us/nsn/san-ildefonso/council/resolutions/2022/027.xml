@@ -275,7 +275,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2022, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>M. Wayne Martinez, Council Secretary</text>
   </procedural-data>
-  <codify:insert>
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.28">
     <container>
       <prefix>Part</prefix>
       <num>17.2.28</num>
@@ -290,14 +290,14 @@
     </text>
     <heading type="law">APPROVING AND AUTHORIZING THE THIRD AMENDED BUSINESS LEASE WITH SAN ILDEFONSO SERVICES, LLC FOR THE TOTAVI GAS STATION AND CONVENIENCE STORE</heading>
     <section>
-      <codify:insert num-value="17.2.28.010"/>
+      <codify:insert num-value="17.2.28.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.28.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the Act, "APPROVING AND AUTHORIZING</text>
       <text>THE THIRD AMENDED BUSINESS LEASE WITH SAN ILDEFONSO SERVICES, LLC FOR THE TOTAVI GAS STATION AND CONVENIENCE STORE."</text>
     </section>
     <section>
-      <codify:insert num-value="17.2.28.020"/>
+      <codify:insert num-value="17.2.28.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.28.020"/>
       <num>1.2</num>
       <heading>Definitions</heading>
       <para>
@@ -311,13 +311,13 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="17.2.28.030"/>
+      <codify:insert num-value="17.2.28.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.28.030"/>
       <num>1.3</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to authorize and direct the Governor of the Pueblo to negotiate and execute a Third Amended Business Lease with SIS LLC for the Totavi Gas Station and Convenience Store.</text>
     </section>
     <section>
-      <codify:insert num-value="17.2.28.040"/>
+      <codify:insert num-value="17.2.28.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.28.040"/>
       <num>1.4</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -392,7 +392,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="17.2.28.050"/>
+      <codify:insert num-value="17.2.28.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.28.050"/>
       <num>1.5</num>
       <heading>Council Authorizations and Waivers</heading>
       <para>
@@ -417,7 +417,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="17.2.28.060"/>
+      <codify:insert num-value="17.2.28.060" codified:doc="Pueblo de San Ildefonso Code" codified:path="|17.2.28.060"/>
       <num>1.6</num>
       <heading>Authority of Tribal Governor to Execute the Third Amended Business Lease</heading>
       <text>The Council hereby authorizes and directs the Governor of the Pueblo to negotiate and execute a final Third Amended Business Lease in substantially the same form as the attached proposed Third Amended Business Lease consistent with this Act, make any revisions and amendments that may be necessary and required to support the execution of a final Third Amended Business Lease, as amended, and execute any certification that may be required by federal or tribal law to support the execution of a final Third Amended Business Lease.</text>
