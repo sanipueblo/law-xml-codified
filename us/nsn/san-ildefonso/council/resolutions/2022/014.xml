@@ -246,7 +246,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2022, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>M. Wayne Martinez, Council Secretary</text>
   </procedural-data>
-  <codify:insert>
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.7.5">
     <container>
       <prefix>Part</prefix>
       <num>6.7.5</num>
@@ -261,19 +261,19 @@
     </text>
     <heading type="law" proof="needed">WAGE AND COMPENSATION AUTHORIZATION ACT OF 2022</heading>
     <section>
-      <codify:insert num-value="6.7.5.010"/>
+      <codify:insert num-value="6.7.5.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.7.5.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "WAGE AND COMPENSATION AUTHORIZATION ACT OF 2022" ("Act").</text>
     </section>
     <section>
-      <codify:insert num-value="6.7.5.020"/>
+      <codify:insert num-value="6.7.5.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.7.5.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to authorize the Governor to develop and implement a Wage and Compensation Scale for employees of the Pueblo.</text>
     </section>
     <section>
-      <codify:insert num-value="6.7.5.030"/>
+      <codify:insert num-value="6.7.5.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.7.5.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -299,7 +299,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="6.7.5.040"/>
+      <codify:insert num-value="6.7.5.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|6.7.5.040"/>
       <num>1.4</num>
       <heading>Wage Scale</heading>
       <text>The Council hereby authorizes and directs the Governor to development and implement an equitable wage and compensation scale for the employees of the Pueblo. The Governor shall review the wage and compensation scale every two years and shall make appropriate adjustments as necessary.</text>
