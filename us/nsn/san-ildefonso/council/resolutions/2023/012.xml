@@ -254,7 +254,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on <u> July 28</u>, 2023, at a meeting with a vote of in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
-  <codify:insert>
+  <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|14.1.5">
     <container>
       <prefix>Part</prefix>
       <num>14.1.5</num>
@@ -269,19 +269,19 @@
     </text>
     <heading type="law">PUBLIC HEALTH LAW OF 2023</heading>
     <section>
-      <codify:insert num-value="14.1.5.010"/>
+      <codify:insert num-value="14.1.5.010" codified:doc="Pueblo de San Ildefonso Code" codified:path="|14.1.5.010"/>
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "PUBLIC HEALTH LAW OF 2023" ("Act").</text>
     </section>
     <section>
-      <codify:insert num-value="14.1.5.020"/>
+      <codify:insert num-value="14.1.5.020" codified:doc="Pueblo de San Ildefonso Code" codified:path="|14.1.5.020"/>
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this law is to: (a) establish the position, the appointment procedures, and the authority of the public health officer; (b) establish procedures and due process protections for public health orders such as voluntary and involuntary isolation and quarantine orders; (c) establish enforcement mechanisms for public health orders; and, (d) protect the health, safety, welfare, and survival of the Pueblo, its members, and others within the jurisdiction of the Pueblo.</text>
     </section>
     <section>
-      <codify:insert num-value="14.1.5.030"/>
+      <codify:insert num-value="14.1.5.030" codified:doc="Pueblo de San Ildefonso Code" codified:path="|14.1.5.030"/>
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -304,37 +304,37 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="14.1.5.040"/>
+      <codify:insert num-value="14.1.5.040" codified:doc="Pueblo de San Ildefonso Code" codified:path="|14.1.5.040"/>
       <num>1.4</num>
       <heading>Scope</heading>
       <text>This Act shall apply to all persons within the exterior boundaries of the Pueblo to the fullest extent of the Pueblo's jurisdiction.</text>
     </section>
     <section>
-      <codify:insert num-value="14.1.5.050"/>
+      <codify:insert num-value="14.1.5.050" codified:doc="Pueblo de San Ildefonso Code" codified:path="|14.1.5.050"/>
       <num>1.5</num>
       <heading>Sovereign Immunity Preserved</heading>
       <text>Except as specifically and expressly authorized by the governing Agreement or by law, nothing in this Act shall be interpreted as a waiver of the Pueblo's sovereign immunity from suit.</text>
     </section>
     <section>
-      <codify:insert num-value="14.1.5.060"/>
+      <codify:insert num-value="14.1.5.060" codified:doc="Pueblo de San Ildefonso Code" codified:path="|14.1.5.060"/>
       <num>1.6</num>
       <heading>Severability</heading>
       <text>If any provision of this Act or its application to any person or circumstance is held invalid, the remainder of this Act or application of its provisions to other persons or circumstances shall not be affected, and to this end, the provisions of this Act are severable.</text>
     </section>
     <section>
-      <codify:insert num-value="14.1.5.070"/>
+      <codify:insert num-value="14.1.5.070" codified:doc="Pueblo de San Ildefonso Code" codified:path="|14.1.5.070"/>
       <num>1.7</num>
       <heading>Effective Date</heading>
       <text>The Act shall take effect immediately upon enactment.</text>
     </section>
     <section>
-      <codify:insert num-value="14.1.5.080"/>
+      <codify:insert num-value="14.1.5.080" codified:doc="Pueblo de San Ildefonso Code" codified:path="|14.1.5.080"/>
       <num>1.8</num>
       <heading>Repeal of Conflicting Code Provisions</heading>
       <text>All prior laws previously enacted by the Council and inconsistent with the provisions of this Act are hereby repealed. If the provisions of this Act conflict with the provisions of any other previously enacted code, law, or Resolution, the provisions of this Act shall control.</text>
     </section>
     <section>
-      <codify:insert num-value="14.1.5.090"/>
+      <codify:insert num-value="14.1.5.090" codified:doc="Pueblo de San Ildefonso Code" codified:path="|14.1.5.090"/>
       <num>1.9</num>
       <heading>Definitions</heading>
       <para>
@@ -524,7 +524,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="14.1.5.100"/>
+      <codify:insert num-value="14.1.5.100" codified:doc="Pueblo de San Ildefonso Code" codified:path="|14.1.5.100"/>
       <num>2.0</num>
       <heading>Appointment of the Public Health Officer</heading>
       <para>
@@ -545,7 +545,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="14.1.5.110"/>
+      <codify:insert num-value="14.1.5.110" codified:doc="Pueblo de San Ildefonso Code" codified:path="|14.1.5.110"/>
       <num>2.1</num>
       <heading>Authority and Duties of the Public Health Officer</heading>
       <para>
@@ -667,7 +667,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="14.1.5.120"/>
+      <codify:insert num-value="14.1.5.120" codified:doc="Pueblo de San Ildefonso Code" codified:path="|14.1.5.120"/>
       <num>2.2</num>
       <heading>Declaration of Public Health Emergencies</heading>
       <text>The Governor may declare a public health emergency. Prior to such declaration, the Governor may consult with Tribal, federal, state, and local public health agencies and any other public health or other experts as needed.</text>
@@ -783,7 +783,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="14.1.5.130"/>
+      <codify:insert num-value="14.1.5.130" codified:doc="Pueblo de San Ildefonso Code" codified:path="|14.1.5.130"/>
       <num>2.3</num>
       <heading>Notifiable Conditions</heading>
       <para>
@@ -808,7 +808,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="14.1.5.140"/>
+      <codify:insert num-value="14.1.5.140" codified:doc="Pueblo de San Ildefonso Code" codified:path="|14.1.5.140"/>
       <num>2.4</num>
       <heading>Disease Control Measures</heading>
       <para>
@@ -893,7 +893,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="14.1.5.150"/>
+      <codify:insert num-value="14.1.5.150" codified:doc="Pueblo de San Ildefonso Code" codified:path="|14.1.5.150"/>
       <num>2.5</num>
       <heading>Responsibility of Community Members</heading>
       <text>Community members shall:</text>
@@ -915,7 +915,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="14.1.5.160"/>
+      <codify:insert num-value="14.1.5.160" codified:doc="Pueblo de San Ildefonso Code" codified:path="|14.1.5.160"/>
       <num>2.6</num>
       <heading>Conditions and Principles for Isolation or Quarantine</heading>
       <text>The Public Health Officer shall adhere to the following conditions and principles when isolating or quarantining a person or group of persons under this Act:</text>
@@ -958,7 +958,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="14.1.5.170"/>
+      <codify:insert num-value="14.1.5.170" codified:doc="Pueblo de San Ildefonso Code" codified:path="|14.1.5.170"/>
       <num>2.7</num>
       <heading>Isolation and Quarantine</heading>
       <para>
@@ -971,7 +971,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="14.1.5.180"/>
+      <codify:insert num-value="14.1.5.180" codified:doc="Pueblo de San Ildefonso Code" codified:path="|14.1.5.180"/>
       <num>2.8</num>
       <heading>Procedural Requirements</heading>
       <para>
@@ -1004,7 +1004,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="14.1.5.190"/>
+      <codify:insert num-value="14.1.5.190" codified:doc="Pueblo de San Ildefonso Code" codified:path="|14.1.5.190"/>
       <num>2.9</num>
       <heading>Judicial Release from or Modification of Isolation or Quarantine</heading>
       <para>
@@ -1053,13 +1053,13 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="14.1.5.200"/>
+      <codify:insert num-value="14.1.5.200" codified:doc="Pueblo de San Ildefonso Code" codified:path="|14.1.5.200"/>
       <num>3.0</num>
       <heading>Nonliability</heading>
       <text>The Pueblo officials, officers, employees, representatives, contractors, or agents thereof, who are performing their duties by implementing or enforcing this Act are immune from suit and monetary damages in any court of law for their action or inaction related to such implementation or enforcement, and does not waive any their rights to assert sovereign immunity, or to assert executive privileges or rights to privacy or confidentiality, except as noted in Section 14.1.5.190 of this Act.</text>
     </section>
     <section>
-      <codify:insert num-value="14.1.5.210"/>
+      <codify:insert num-value="14.1.5.210" codified:doc="Pueblo de San Ildefonso Code" codified:path="|14.1.5.210"/>
       <num>3.1</num>
       <heading>Violation of Orders of the Public Health Officer</heading>
       <para>
@@ -1084,7 +1084,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="14.1.5.220"/>
+      <codify:insert num-value="14.1.5.220" codified:doc="Pueblo de San Ildefonso Code" codified:path="|14.1.5.220"/>
       <num>3.2</num>
       <heading>Arrest to Enforce Control Measures</heading>
       <para>
@@ -1097,7 +1097,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="14.1.5.230"/>
+      <codify:insert num-value="14.1.5.230" codified:doc="Pueblo de San Ildefonso Code" codified:path="|14.1.5.230"/>
       <num>3.3</num>
       <heading>Exclusion and Removal for Failure to Comply</heading>
       <para>
@@ -1106,7 +1106,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="14.1.5.240"/>
+      <codify:insert num-value="14.1.5.240" codified:doc="Pueblo de San Ildefonso Code" codified:path="|14.1.5.240"/>
       <num>3.4</num>
       <heading>Reporting by the Public Health Officer</heading>
       <para>
@@ -1132,7 +1132,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="14.1.5.250"/>
+      <codify:insert num-value="14.1.5.250" codified:doc="Pueblo de San Ildefonso Code" codified:path="|14.1.5.250"/>
       <num>3.5</num>
       <heading>Confidentiality</heading>
       <para>
