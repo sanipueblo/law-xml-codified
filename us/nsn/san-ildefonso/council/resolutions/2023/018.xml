@@ -234,7 +234,7 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2023, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Irene Tse-Pe, Council Secretary</text>
   </procedural-data>
-  <codify:insert path="15.1">
+  <codify:insert path="15.1" codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.14">
     <container>
       <prefix>Part</prefix>
       <num>15.1.14</num>
@@ -265,7 +265,7 @@
     <text class="text-indent-2">2. Fannie Mae's willingness to purchase such Mortgages is subject to the following: (i) the Designated Lender and the Mortgages comply with Fannie Mae's guidelines as set forth in Fannie Mae's Selling and Servicing Guide, as amended from time to time, and with the contract terms negotiated between Fannie Mae and the Designated Lender; (ii) the Tribe enters into this MOU with Fannie Mae; and (iii) Fannie Mae finds acceptable for NACLI (a) the Tribal ordinances or statutes establishing the Legal Standards (defined below), (b) the organizational documents of the Tribe through which NACLI will be implemented, (c) the note and mortgage instruments evidencing the Mortgages and (d) the borrower's real property interest in the Trust Land or Restricted Land, as applicable.</text>
     <text>NOW, THEREFORE, in consideration of the premises and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree to the following:</text>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.14.010"/>
       <num codify:value="15.1.14.010">1</num>
       <heading codify:value="Definitions">DEFINITIONS</heading>
       <para>
@@ -350,7 +350,7 @@
       </para>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.14.020"/>
       <num codify:value="15.1.14.020">2</num>
       <heading codify:value="Support for Mortgage Lending">SUPPORT FOR MORTGAGE LENDING</heading>
       <para>
@@ -415,25 +415,25 @@
       </para>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.14.030"/>
       <num codify:value="15.1.14.030">3</num>
       <heading codify:value="Fannie Mae Purchase of Mortgages">FANNIE MAE PURCHASE OF MORTGAGES</heading>
       <text>In consideration of the foregoing, Fannie Mae stands ready to purchase from the Designated Lender qualifying loans made to Eligible Borrowers secured by a Mortgage or Deed of Trust on Trust Land or Restricted Land, a leasehold interest thereon, or an Assignment thereof, to the extent permitted by applicable law.</text>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.14.040"/>
       <num codify:value="15.1.14.040">4</num>
       <heading codify:value="Consent to Jurisdiction">CONSENT TO JURISDICTION</heading>
       <text>The Tribe and Fannie Mae hereby expressly consents to the jurisdiction of the <u>Pueblo de San Ildefonso Tribal Court and Supreme Court</u> with respect to any action brought to enforce the obligations owed by it to another party under this MOU.</text>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.14.050"/>
       <num codify:value="15.1.14.050">5</num>
       <heading codify:value="Termination">TERMINATION</heading>
       <text>In the event that either party wishes to terminate the relationship established hereunder, this MOU shall terminate 30 days following receipt of written notice of such termination from either party. Provided, however, such termination shall not affect the Tribe's commitments under Sections <span codify:value="2(b), (f), (g), and (i)">2(B), (F), (G), and (I)</span> above, as long as Fannie Mae is the holder of any Mortgage originated pursuant to this MOU.</text>
     </section>
     <section>
-      <codify:insert/>
+      <codify:insert codified:doc="Pueblo de San Ildefonso Code" codified:path="|15.1.14.060"/>
       <num codify:value="15.1.14.060">6</num>
       <heading codify:value="Counterparts">COUNTERPARTS</heading>
       <text>This MOU may be executed in multiple counterparts, each of which is deemed an original and all of which together constitute one and the same document.</text>
